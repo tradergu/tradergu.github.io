@@ -40,7 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/trader_gu # change to your Twitter homepage
-    - https://github.com/tradergu # change to your GitHub homepage
+    # https://github.com/tradergu # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -99,11 +99,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1864215104801394691/V2w3EDOE_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1874820905819688960/A4H3XxGE_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: https://pbs.twimg.com/profile_images/1874820905819688960/A4H3XxGE_400x400.jpg # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
