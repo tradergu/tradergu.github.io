@@ -18,13 +18,13 @@ title: Trader Gu # the main title
 
 tagline: Tools, Strategies, and Insights for consistent trading success # it will display as the subtitle
 
-description: # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
   My channel is all about sharing the tools 🛠️, strategies 📖, and insights 💡 that help me grow as a trader, stay profitable, and scale my accounts.
   Follow along as we navigate the path to trading success together! 🚀
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://tradergu.github.io"
+url: 'https://tradergu.github.io'
 
 github:
   username: tradergu # change to your GitHub username
