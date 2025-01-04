@@ -16,10 +16,10 @@ timezone: Europe/Stockholm
 
 title: Trader Gu # the main title
 
-tagline: Tools, Strategies, and Insights for consistent trading success # it will display as the subtitle
+tagline: My trading toolbox shares the tools, strategies, and insights that help me grow, stay profitable, and scale my accounts # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  My channel is all about sharing the tools 🛠️, strategies 📖, and insights 💡 that help me grow as a trader, stay profitable, and scale my accounts.
+  My trading toolbox shares the tools, strategies, and insights that help me grow, stay profitable, and scale my accounts.
   Follow along as we navigate the path to trading success together! 🚀
 
 # Fill in the protocol & hostname for your site.
@@ -36,7 +36,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Trader Gu
-  #email: sitai.gu@gmail.com # change to your email address
+  email: sitai.gu@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/trader_gu # change to your Twitter homepage
