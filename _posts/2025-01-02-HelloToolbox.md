@@ -1,8 +1,11 @@
 ---
 title: "Welcome to the Trader Gu Toolbox"
 date: 2025-01-02 14:50:00 0100
-categories: [insights]
+categories: [Insights]
 tags: [selfgrowth]  #TAG names should always be lowercase separated by comma
+image: 
+  path: /assets/img/2025/0/TG-Welcome.png
+  lqtip: 
 ---
 
 👋 Hey there! I’m Gustav—a Swedish engineer and profitable trader. Since 2022, trading has been a transformative part of my life—not just financially, but mentally. This toolbox is my space to share that journey with you, with the hope of inspiring and supporting others as they navigate their own trading paths.
@@ -21,7 +24,7 @@ tags: [selfgrowth]  #TAG names should always be lowercase separated by comma
 
 * January 2024: Adapted my Forex strategy for equity swing trading.
 
-* December 2024: Ended the year with a +40% return on my equity trading account.
+* December 2024: Ended the year with a +47% return on my equity trading account.
 
 ## Why I’m Sharing My Journey
 
