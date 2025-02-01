@@ -47,7 +47,7 @@ This dashboard showcases a lot of data, but here are the key highlights:
 ### Advanced: Fetching Current Prices Using ISIN
 
 
-[Google Finance](https://support.google.com/docs/answer/3093281?hl=en) is a powerful Sheets tool, but it has limitations when fetching certain financial instruments like mutual funds or ETFs. Luckily, someone smarter than me figured out a way to **track current prices using ISIN numbers* (a standardized identifier for securities) with a custom Google Apps Script.
+[Google Finance](https://support.google.com/docs/answer/3093281?hl=en) is a powerful Sheets tool, but it has limitations when fetching certain financial instruments like mutual funds or ETFs. Luckily, someone smarter than me figured out a way to **track current prices using ISIN numbers** with a custom Google Apps Script.
 
 
 
