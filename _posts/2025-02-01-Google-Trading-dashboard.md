@@ -1,5 +1,5 @@
 ---
-title: "Google Sheets Trading Dashboard: A Free Template for Equity Tradersm"
+title: "Google Sheets Trading Dashboard: A Free Template for Equity Traders"
 date: 2025-02-01 09:40:00 0100
 categories: [Trading Tools]
 tags: [trading-tools, google-sheets, dashboard]  #TAG names should always be lowercase separated by comma
@@ -11,7 +11,7 @@ image:
 
 Having a clear (and aesthetically pleasing 🤩) overview of your trading portfolio is essential. It helps track open positions, manage risk, and monitor performance KPIs, keeping your trading focused and structured.
 
-In this blog post, I’m sharing a powerful **Google Sheets template** that I put together for my **#25YearTradingExperiment**.
+In this blog post, I’m sharing a powerful **Google Sheets template** that I put together for my [25 Year Trading Experiment](https://www.tradergu.com/posts/25YearTradingExperiment/).
 
 ## What This Dashboard Covers
 
@@ -31,7 +31,7 @@ This dashboard showcases a lot of data, but here are the key highlights:
 
 ## How to Use the Template
 ![image](/assets/img/2025/3/TG-Dashboard-Markup.png)
-*Google sheet dashboard, cells to edit*
+*Google Sheets Dashboard - Cells to edit*
 
 
 ### Cells to Edit
@@ -57,7 +57,7 @@ Luckily, someone smarter than me figured out a way to **track current prices usi
 
 ### Here's how you can integrate it into your Google Sheet:
 
-#### **Step 1**: Open Extensions settings and press Apps Scripts.
+#### **Step 1**: Open Extensions setting in your Google Sheet and press Apps Scripts.
 
 #### **Step 2**: Remove any code and replace with below script.
 
