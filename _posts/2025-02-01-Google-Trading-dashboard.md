@@ -47,9 +47,9 @@ This dashboard showcases a lot of data, but here are the key highlights:
 ### Advanced: Fetching Current Prices Using ISIN
 
 
-[Google Finance](https://support.google.com/docs/answer/3093281?hl=en) is a powerful Sheets tool, but it has limitations when fetching certain financial instruments like mutual funds or ETFs. The below script helps retrieve real-time prices using ISIN numbers, a standardized identifier for securities. 
+[Google Finance](https://support.google.com/docs/answer/3093281?hl=en) is a powerful Sheets tool, but it has limitations when fetching certain financial instruments like mutual funds or ETFs. Luckily, someone smarter than me figured out a way to **track current prices using ISIN numbers* (a standardized identifier for securities) with a custom Google Apps Script.
 
-Luckily, someone smarter than me figured out a way to **track current prices using ISIN numbers** with a custom Google Apps Script.
+
 
 > Big shout-out to the author of [this blog post](https://kollpakontot.blogspot.com/2024/10/indexfonders-nav-kurs-i-google-sheets.html) where I first found this method—it’s something I’ve wanted for months. 🙌 ☕️
 {: .prompt-tip }  
@@ -99,7 +99,7 @@ function fintime1(symbol) {
 }
 ```
 
-#### **Step 3**: Click **New Deployment** and Select type: Web app
+#### **Step 3**: Click **New Deployment** and **Select type**, Web app
 
 #### **Step 4**: Choose a Description (optional), and select Who shall have access and click **Deploy**
 
@@ -111,7 +111,7 @@ Now, try it out by calling the function below in your Google Sheet.
 
 ## Bonus: Want to Improve This?
 
-Let me know how this template works for you! If you have suggestions for improvements, drop a comment below or connect with me on [x.com/tradergu](https://x.com/trader_gu).
+Let me know how this template works for you! If you have suggestions for improvements, feel free to connect and reach out to me on [x.com/tradergu](https://x.com/trader_gu).
 
 
 > If anyone manages to **revise this script** to also fetch **name, and currency**, please let me know. 👀
