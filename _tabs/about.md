@@ -22,6 +22,6 @@ My channel is all about sharing the tools, strategies, and insights that help me
 #### Broker  
 
 * Equity Trading: [Avanza](https://www.avanza.se/), [Nordnet](https://www.nordnet.se/), and [Interactive Brokers](https://www.interactivebrokers.ie/)
-* FOREX Trading (Forex): [Eightcap](https://www.eightcap.com/)
+* FOREX Trading: [Eightcap](https://www.eightcap.com/)
 * Crypty: [Binance](https://www.binance.com/)
 
