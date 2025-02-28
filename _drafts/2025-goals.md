@@ -4,7 +4,7 @@ title: "My Trading Goals for 2025"
 categories: [Insights]
 tags: [trading-habits, selfgrowth]  #TAG names should always be lowercase separated by comma
 image: 
-  path: /assets/img/2025/4/TG-Wide-1.png
+  path: /assets/img/2025/6/TG-Wide-1.png
   lqtip: 
 ---
 
