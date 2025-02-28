@@ -23,26 +23,24 @@ When it comes to trading, my affirmation is:
 ## 2025 Measurable Goals
 
 Mindset & Discipline
-- [ ]  Maintain a >75% yearly average for my daily motivation phrase (tracked with Habit Tracker).
-Trading & Strategy
-- [ ] Follow through on my 25yeartradjngexpermient plan with monthly investments on 22nd of every month
+- [ ]  Maintain a >75% yearly average for my daily affirmation (tracked with Habit Tracker).
+
+Trading & Strategy  
+- [ ] Follow through on my [25 Year Trading Experiment](https://www.tradergu.com/posts/25YearTradingExperiment/) with monthly investments on 22nd of each month.
 - [ ] Limit Forex trades to max <2R risk per trade (avoid chasing the big wins).
-- [ ] Refine my equity Risk Strategy by develop a scalable risk strategy that adapts to portfolio growth, shifting from an invested capital model to one based on current portfolio value.
+- [ ] Refine my equity Risk Strategy by develop a scalable risk strategy that adapts to portfolio growth, shifting from an invested capital model to one based on current portfolio value.  
+  
 Content & Community
-- [ ] Publish a minimum of 2 blog posts per month on tradergu.com
-- [ ] Grow my x.com (Twitter) community to 500 followers
+- [ ] Publish a minimum of 2 blog posts per month.
+- [ ] Grow my x.com community to ~~100~~ 500 followers.
 
-> I'm not here to be right. I'm here to be profitable.
-{: .prompt-tip }
-
-Have you ever struggled with this? Drop a comment and let’s talk about it.
 
 ## Final Thoughts
 These goals align with my long-term vision - building sustainable trading habits, refining my risk strategy, and growing a community of like-minded traders.
 
 One thing you won’t see on this list? A financial goal. I believe that if I stay committed to my trading plan, follow my risk strategy, and continuously improve, the financial results will take care of themselves.
 
-What is your trading goals for 2025? Drop a line in the comments sections if you care to share 👇
+What is your trading goals for 2025? Drop a comments below if you care to share 👇
 
 2025 let’s go! 🌊
 
