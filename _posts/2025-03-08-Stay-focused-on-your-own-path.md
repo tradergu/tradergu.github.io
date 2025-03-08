@@ -14,7 +14,7 @@ Yet, if you spend any time in trading communities, you’ll find people eager to
 
 It’s easy to look at another trader’s decisions and think, Why would they do that? That’s not how to trade! But over time, I’ve realized that this mindset does nothing to improve my own performance. Instead, it shifts focus away from what truly matters—refining my own system, mastering my psychology, and executing my edge consistently.
 
-### The Psychology Behind It
+## The Psychology Behind It
 
 Mark Douglas was a pioneer in trading psychology, best known for his books The Disciplined Trader and Trading in the Zone. His work emphasized that trading success is rooted in mindset, discipline, and emotional control rather than just technical skills or strategy. He helped traders recognize that their beliefs and attitudes shape their results, making self-awareness and adaptability essential for long-term profitability.
 
@@ -29,9 +29,8 @@ This resonates deeply. Our entire lives, we’re taught to compare, compete, and
 
 The market doesn’t reward opinions; it rewards discipline.
 
----
 
-### The Danger of Criticism
+## The Danger of Criticism
 
 When you focus on critiquing others, you divert mental energy away from what actually matters: your own trading performance.
 
@@ -41,19 +40,19 @@ When you focus on critiquing others, you divert mental energy away from what act
 
 I know this firsthand because I’ve been there. I’ve caught myself dismissing other traders’ approaches simply because they didn’t match my own. But over time, I’ve learned that every trader has their own journey. Instead of questioning why another trader’s strategy may not work, I now focus on why mine does—or doesn’t.
 
----
-
-### What to Do Instead
+## What to Do Instead
 
 Here’s what I remind myself when I feel the urge to critique others:
 
 * **Analyze, Don’t Criticize** – If you see someone using an unconventional method, instead of judging, ask: What can I learn from this?
+  
 * **Stay Open-Minded** – No single system works in all market conditions. Adapt and refine your approach.
+  
 * **Measure Your Own Success** – Your P&L and consistency are the only metrics that matter. If you're profitable, why waste time worrying about someone else's trades?
+  
 * **Practice Self-Awareness** – If you feel compelled to criticize another trader, ask yourself why. Is it insecurity? Frustration? A need for validation?
----
 
-### A Personal Example
+## A Personal Example
 
 Recently, the trading influencer [Dan Cheung asked on X](https://x.com/wannabechamp/status/1895942495026000178):
 
@@ -67,8 +66,6 @@ This is something I work on daily. There have been times when I’ve caught myse
 Dan Cheung's thread was full of great insights from fellow traders, and reading through it reinforced an important lesson: the best traders focus on their own development instead of worrying about others.
 
 ![⁠What are some signs that show a trader is experienced?](/assets/img/2025/8/TG-X-quote-criticise.png)
-
----
 
 ## **Final Thoughts**
 
