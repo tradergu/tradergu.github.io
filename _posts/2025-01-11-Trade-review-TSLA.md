@@ -1,6 +1,7 @@
 ---
 title: "$TSLA Trade Analysis: Lessons from a High-Conviction Setup"
 date: 2025-01-11 07:27:00 0100
+last_modified_at: 2025-01-11 07:27:00 0100
 categories: [Trade review]
 tags: [trade-review,tsla]  #TAG names should always be lowercase separated by comma
 image: 
