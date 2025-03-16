@@ -133,3 +133,19 @@ A: Yes! You can tweak the script to retrieve more details like historical prices
 
 **Q: How can I change the template currency?**  
 A: Update the formulas in the current price cell and adjust the cell formatting to match your preferred currency.
+
+<script src="https://giscus.app/client.js"
+        data-repo="tradergu/tradergu.github.io-comments"
+        data-repo-id="R_kgDOOJkYuA"
+        data-category="General"
+        data-category-id="DIC_kwDOOJkYuM4CoG-6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

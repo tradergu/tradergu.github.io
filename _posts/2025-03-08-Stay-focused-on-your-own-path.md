@@ -76,3 +76,19 @@ Every trader is on their own journey - respect that, and more importantly, respe
 I’m not perfect, and I still catch myself falling into old habits. But I’ve learned that when I shift my focus inward, my trading improves.
 
 What about you? Have you ever caught yourself critiquing someone else’s approach instead of working on your own? Drop a comment and let's talk about it! 👇
+
+<script src="https://giscus.app/client.js"
+        data-repo="tradergu/tradergu.github.io-comments"
+        data-repo-id="R_kgDOOJkYuA"
+        data-category="General"
+        data-category-id="DIC_kwDOOJkYuM4CoG-6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

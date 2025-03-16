@@ -96,3 +96,19 @@ All in all, this was a very good trade resulting in a 2.5R win and a 25% portfol
 * Let winning trades run: Keeping a portion of the position open for higher targets allowed for significant gains.
 
 
+
+<script src="https://giscus.app/client.js"
+        data-repo="tradergu/tradergu.github.io-comments"
+        data-repo-id="R_kgDOOJkYuA"
+        data-category="General"
+        data-category-id="DIC_kwDOOJkYuM4CoG-6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
