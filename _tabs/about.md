@@ -4,24 +4,22 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I’m Gustav — a Swedish engineer, and consistently profitable Forex Day Trader and Equity Swing Trader.
+👋 Hey, I’m **Gustav**, a Swedish engineer and part-time trader who believes that trading should **fit into your life - not the other way around**. I started trading in 2022 and quickly realized that most trading education promotes day trading, scalping, and the ‘quit your job to trade full-time’ mentality — a high-risk approach that is neither realistic nor practical for busy professionals.
 
-My channel is all about sharing the tools, strategies, and insights that help me grow as a trader, stay profitable, and scale my accounts.
+That approach didn’t resonate with me.
 
-## Tools I Use
+Instead, I developed a structured, high-timeframe trading strategy that allows me to trade efficiently while balancing a full-time job. My focus is on high-conviction setups, proper risk management, and executing only when the right conditions align​📍 
 
-#### Software  
-* Charting Software: [Tradingview](https://www.tradingview.com/?aff_id=147497)
-* FOREX trading platform: [Metatrader](https://www.metatrader5.com/)
+This site is my **trading journal, toolbox, and roadmap**, where I document my journey with real trades, market insights, and lessons learned.
 
-#### Hardware
-* Apple iPhone 16 Pro MAx
-* Apple Watch Series 10
-* Apple iMAC
-  
-#### Brokers
+I’m not here to sell you a dream - just sharing what works **for me**, what doesn’t, and how to approach trading with discipline and confidence.
 
-* Equity Trading: [Avanza](https://www.avanza.se/), [Nordnet](https://www.nordnet.se/), and [Interactive Brokers](https://www.interactivebrokers.ie/)
-* FOREX Trading: [Eightcap](https://www.eightcap.com/)
-* Crypto Trading: [Binance](https://www.binance.com/)
+### What You’ll Find Here
+
+- 🛠 A Toolbox for Part-Time Traders – Strategies, insights, and tools to trade efficiently while managing a full-time job.
+- 📈 A Structured Trading Process – A repeatable system built on patience, preparation, and execution.
+- 🔍 Real Trades & Insights – Transparent trade reviews, market outlooks, and lessons learned.
+
+### 📩 Get in Touch
+- Twitter/X: [Trader Gu](https://x.com/trader_gu)
 
