@@ -10,7 +10,7 @@ That approach didn’t resonate with me.
 
 Instead, I developed a structured, high-timeframe trading strategy that allows me to trade efficiently while balancing a full-time job. My focus is on high-conviction setups, proper risk management, and executing only when the right conditions align​📍 
 
-This site is my **trading journal, toolbox, and roadmap**, where I document my journey with real trades, market insights, and lessons learned.
+This space is my trading journal, toolbox, and roadmap, where I document my journey with real trades, market insights, and lessons learned.
 
 I’m not here to sell you a dream - just sharing what works **for me**, what doesn’t, and how to approach trading with discipline and confidence.
 
@@ -20,6 +20,6 @@ I’m not here to sell you a dream - just sharing what works **for me**, what do
 - 📈 A Structured Trading Process – A repeatable system built on patience, preparation, and execution.
 - 🔍 Real Trades & Insights – Transparent trade reviews, market outlooks, and lessons learned.
 
-### 📩 Get in Touch
+### Get in Touch
 - Twitter/X: [Trader Gu](https://x.com/trader_gu)
 
