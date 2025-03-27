@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Profile Trader Gu]](/assets/img/tg-profile-ghibli-transparent.png){: .w-50 .right}
+![Profile Trader Gu](/assets/img/tg-profile-ghibli-transparent.png)
 
-👋 Hey, I’m **Gustav**, a Swedish engineer and part-time trader who believes that trading should **fit into your life - not the other way around**. I started trading in 2022 and quickly realized that most trading education promotes day trading, scalping, and the ‘quit your job to trade full-time’ mentality — a high-risk approach that is neither realistic nor practical for busy professionals.
+👋 Hey, I’m Gustav, also known as Trader Gu — a Swedish engineer and part-time trader who believes that trading should **fit into your life - not the other way around**. I started trading in 2022 and quickly realized that most trading education promotes day trading, scalping, and the ‘quit your job to trade full-time’ mentality — a high-risk approach that is neither realistic nor practical for busy professionals.
 
 That approach didn’t resonate with me.
 
@@ -25,3 +25,4 @@ I’m not here to sell you a dream - just sharing what works **for me**, what do
 ### Get in Touch
 - Twitter/X: [Trader Gu](https://x.com/trader_gu)
 
+I’m Gustav, also known as Trader Gu —
