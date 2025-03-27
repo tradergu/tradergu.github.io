@@ -5,7 +5,6 @@ order: 4
 ---
 
 
-
 👋 Hey, I’m Gustav, also known as Trader Gu — a Swedish engineer and part-time trader who believes that trading should **fit into your life - not the other way around**. I started trading in 2022 and quickly realized that most trading education promotes day trading, scalping, and the ‘quit your job to trade full-time’ mentality — a high-risk approach that is neither realistic nor practical for busy professionals.
 
 That approach didn’t resonate with me.
