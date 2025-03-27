@@ -4,11 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Profile Trader Gu](/assets/img/tg-profile-ghibli-transparent.png){: width="1024" height="1536" .w-30 .right}
+
 
 👋 Hey, I’m Gustav, also known as Trader Gu — a Swedish engineer and part-time trader who believes that trading should **fit into your life - not the other way around**. I started trading in 2022 and quickly realized that most trading education promotes day trading, scalping, and the ‘quit your job to trade full-time’ mentality — a high-risk approach that is neither realistic nor practical for busy professionals.
 
 That approach didn’t resonate with me.
+
+![Profile Trader Gu](/assets/img/tg-profile-ghibli-transparent.png){: width="1024" height="1536" .w-30 .right}
 
 Instead, I developed a structured, high-timeframe trading strategy that allows me to trade efficiently while balancing a full-time job. My focus is on high-conviction setups, proper risk management, and executing only when the right conditions align​📍 
 
