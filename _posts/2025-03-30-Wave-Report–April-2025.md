@@ -1,5 +1,5 @@
 ---
-title: 📬 Trader Gu's Wave Report – [April, 2025]
+title: 📬 Trader Gu's Wave Report – April 2025
 date: 2025-03-30 21:20:00 0100
 categories: [Trader Gu's Wave Report]
 tags: [wave-report, newsletter]
@@ -8,12 +8,13 @@ image:
   lqtip:
 ---
 
-**Monthly Newsletter | April 2025**  
-**Structured Analysis | High-Conviction Trading | Built for Part-Time Traders**
+**Monthly Newsletter | April 2025 **
+
+**Structured Analysis | High-Conviction Trading | Built for Part-Time Traders **
 
 ## ⚡️ TL;DR – Quick Snapshot
 
-👀 AOI Setups: $PYPL, $TSLA  
+👀 AOI Setups: $PYPL, $TSLA
 🧲 Approaching key levels**: $GOOG, $NKE    
 🔭 HTF Watchlist: $MSFT, $AAPL  
 🌕 Bonus Short Idea: $WMT  
@@ -135,3 +136,20 @@ Drop a comment below or send me a message on [X](https://x.com/trader_gu) -  I�
 
 📬 _This report goes out to subscribers **one week before** it’s published on my [website](https://www.tradergu.com/)._  
 Want early access to future editions?  [Subscribe here](#) or follow on [X](https://x.com/trader_gu) for real-time trade updates and trading content tailored for part-time traders.
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="tradergu/tradergu.github.io-comments"
+        data-repo-id="R_kgDOOJkYuA"
+        data-category="General"
+        data-category-id="DIC_kwDOOJkYuM4CoG-6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
