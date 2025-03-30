@@ -8,14 +8,15 @@ image:
   lqtip:
 ---
 
-**Monthly Newsletter | April 2025** 
-Structured Analysis | High-Conviction Trading | Built for Part-Time Traders
+**Monthly Newsletter | April 2025**  
+**Structured Analysis | High-Conviction Trading | Built for Part-Time Traders**
+
 ## ⚡️ TL;DR – Quick Snapshot
 
-👀 **AOI Setups**: $PYPL, $TSLA  
-🧲 **Approaching key levels**: $GOOG, $NKE    
-🔭 **HTF Watchlist**: $MSFT, $AAPL  
-🌕 **Bonus Short Idea**: $WMT  
+👀 AOI Setups: $PYPL, $TSLA  
+🧲 Approaching key levels**: $GOOG, $NKE    
+🔭 HTF Watchlist: $MSFT, $AAPL  
+🌕 Bonus Short Idea: $WMT  
   
 👋 Hey traders,
 
@@ -31,7 +32,7 @@ Let’s take a look at what’s building for April 👇
 ## 👀 Possible developing trades - Inside the  Area of Interest (AOI)
 These are potential setups building in my area of interest and the ones that I am tracking on the daily and weekly time frames for potential entries.
 
-### **$PYPL – Daily Reversal Structure Forming**
+### $PYPL – Daily Reversal Structure Forming
 
 One of the most interesting charts in the coming weeks. $PYPL (PayPal) is well-positioned in my high-conviction area of interest. Technically, we’re still in a bullish market structure on the monthly timeframe, and I’m looking for a trade idea to develop in this zone, as I believe we could see a sharp reaction at around $63, which aligns with the weekly order block $60-$62.
 
@@ -44,7 +45,7 @@ What I’d like to see is a move down toward the $63 level, tapping into the wee
 ![PYPL weekly chart](/assets/img/2025/march/PYPL_2025-03-29_09-25-10.png)
 *$PYPL - Weekly chart*
 
-### **$TSLA – To retrace or break down?
+### $TSLA – To retrace or break down?
 
 Tesla is one of my favorite stocks to trade -  and also one of my best-performing trades during 2024. Now, we’re finally back retesting the monthly order block at $273–$263, where price previously showed an explosive reaction to the downside, followed by a retracement back into that zone.
 
@@ -76,36 +77,38 @@ Google is approaching a previously retested monthly order block - setting up for
 
 I’ll be watching closely for potential setups within the broader monthly range between $150 and $143. That said, if this level fails to hold, we could see a deeper breakdown toward significantly lower prices. Patience and clear structure will be key here. 
 
-![[GOOG_2025-03-29_08-53-00.png]]
+![$GOOG monthly]/assets/img/2025/march/GOOG_2025-03-29_08-53-00.png)
 *$GOOG - Monthly chart*
+
 ### $NKE – Heading for Covid Low?
 
 $NKE Nike has been on an extreme bearish move since the peaks in 2021, and currently we are just positioned right above the COVID-19 lows where we had an explosive reaction during March 2020. This can go many ways, but currently looks like we are heading to take the COVID low liquidity and I could see price have an explosive reaction or move further south doing a proper retest at the monthly order block at $53.
-![[NKE_2025-03-29_09-45-03.png]]
-*$NKE - Monthyl chart*
+![$nke monthly][(assets/img/2025/march/NKE_2025-03-29_09-45-03.png)
+*$NKE - Monthly chart*
+
 ## 🔭 Long-Term Watch – HTF Moves into AOI
 
 These are tickers I’m monitoring on the **monthly or higher timeframes**. While they may currently be far from my area of interest, I track them to stay aware of how price evolves as it approaches key levels. Monitoring on the higher timeframes allows me to prepare well in advance and be ready to position myself when trade opportunities emerge.
 
-**Long-term positions require long-term planning.** That includes not just the technical setup, but also making sure I have capital available to allocate when the time is right.
+Long-term positions require long-term planning. That includes not just the technical setup, but also making sure I have capital available to allocate when the time is right.
 
-### **$MSFT – HTF Move to the Downside**
+### $MSFT – HTF Move to the Downside**
 
 Microsoft is making moves heading towards high probability level retesting the order block at $330-$340. This might take some weeks or months to reach, but if we get there, I will monitor the lower timeframes for high-conviction trade. Microsoft is one of those stocks where I would I like to be positioned for the long term.
-![[MSFT_2025-03-29_08-17-52.png]]
+![$AAPL monthly ](/assets/img/2025/march/MSFT_2025-03-29_08-17-52.png)
 ### $AAPL – Possibly confirmed Bearish Monthly Structure
 
 Still waiting on the monthly close to confirm a bearish monthly structure on $AAPL.  
 If confirmed, $195 becomes a high-probability target as it's the 0.618 fibonacci level and perfectly lines up with the breakout of the previous range.
 
 That said, as an OB trader, my real focus is the $170–$180 monthly order block. That’s where I’ll be watching for a trade setup or aggressive entry. 👀
-![[AAPL_2025-03-29_08-36-07.png]]
+![$AAPL](/assets/img/2025/march/AAPL_2025-03-29_08-36-07.png)
 
 ## 🌕  Bonus - Short sell opportunity 
 $WMT (Walmart) looks like it's heading into a tough few months and possibly 
 even years. The bearish monthly order block at $92-$96 looks interesting for a high-conviction short. 
 
-![[WMT_2025-03-29_09-12-05.png]]
+![WMT monthly](/assets/img/2025/march/WMT_2025-03-29_09-12-05.png)
 *$WMT - Monthly chart*
 
 ## 💡 Final Thought: Let the Wave Come to You
