@@ -8,9 +8,8 @@ image:
   lqtip:
 ---
 
-Monly Newsletter | April 2025
-
-Structured Analysis | High-Conviction Trading | Built for Part-Time Traders
+**Monthly Newsletter - April 2025**  
+**Structured Analysis - High-Conviction Trading - Built for Part-Time Traders**  
 
 ## ⚡️ TL;DR – Quick Snapshot
 
