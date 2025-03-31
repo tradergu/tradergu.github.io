@@ -29,7 +29,7 @@ Inside, you’ll find the tickers on my watchlist, the Areas of Interest (AOI) I
 
 Let’s take a look at what’s building for April 👇
 
-## 👀 Possible developing trades - Inside the  Area of Interest (AOI)
+## 👀 Developing Trades - Inside the  Area of Interest (AOI)
 These are potential setups building in my area of interest and the ones that I am tracking on the daily and weekly time frames for potential entries.
 
 ### $PYPL – Daily Reversal Structure Forming
@@ -65,7 +65,7 @@ Exciting times!
 ![$TSLA daily chart](assets/img/2025/march/TSLA_2025-03-29_09-42-31.png)
 *$TSLA - Daily chart*
 
-## 🧲 Trades Approaching AOI – Early Watchlist
+## 🧲 Trades Approaching AOI
 
 Tickers approaching my areas of interest often exhibit sharp, volatile reactions. Sometimes, price breaks down entirely. Other times, it begins to form a structure that can evolve into a trade over days, weeks even months.
 
@@ -87,13 +87,13 @@ $NKE Nike has been on an extreme bearish move since the peaks in 2021, and curre
 ![$nke monthly](/assets/img/2025/march/NKE_2025-03-29_09-45-03.png)
 *$NKE - Monthly chart*
 
-## 🔭 Long-Term Watch – HTF Moves into AOI
+## 🔭 Long-Term Watch
 
 These are tickers I’m monitoring on the **monthly or higher timeframes**. While they may currently be far from my area of interest, I track them to stay aware of how price evolves as it approaches key levels. Monitoring on the higher timeframes allows me to prepare well in advance and be ready to position myself when trade opportunities emerge.
 
 Long-term positions require long-term planning. That includes not just the technical setup, but also making sure I have capital available to allocate when the time is right.
 
-### $MSFT – HTF Move to the Downside**
+### $MSFT – HTF Move to the Downside
 
 Microsoft is making moves heading towards high probability level retesting the order block at $330-$340. This might take some weeks or months to reach, but if we get there, I will monitor the lower timeframes for high-conviction trade. Microsoft is one of those stocks where I would I like to be positioned for the long term.
 
