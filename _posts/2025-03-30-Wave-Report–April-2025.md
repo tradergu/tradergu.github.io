@@ -1,5 +1,5 @@
 ---
-title: 📬 Trader Gu's Wave Report – April 2025
+title: Trader Gu's Wave Report – April 2025
 date: 2025-03-30 21:20:00 0100
 categories: [Trader Gu's Wave Report]
 tags: [wave-report, newsletter]
@@ -8,14 +8,14 @@ image:
   lqtip:
 ---
 
-**Monthly Newsletter | April 2025 **
+Monly Newsletter | April 2025
 
-**Structured Analysis | High-Conviction Trading | Built for Part-Time Traders **
+Structured Analysis | High-Conviction Trading | Built for Part-Time Traders
 
 ## ⚡️ TL;DR – Quick Snapshot
 
-👀 AOI Setups: $PYPL, $TSLA
-🧲 Approaching key levels**: $GOOG, $NKE    
+👀 Developing Trades: $PYPL, $TSLA  
+🧲 Approaching kKe Levels: $GOOG, $NKE    
 🔭 HTF Watchlist: $MSFT, $AAPL  
 🌕 Bonus Short Idea: $WMT  
   
@@ -57,7 +57,7 @@ However, a bearish monthly close could shift the narrative. In that case, I’d 
 
 Exciting times!
 
-![](/assets/img/2025/march/TSLA_2025-03-29_09-30-57.png)
+![$TSLA Monthly chart](/assets/img/2025/march/TSLA_2025-03-29_09-30-57.png)
 *$TSLA - Monthly chart*
 
 ![$TSLA Weekly chart](/assets/img/2025/march/TSLA_2025-03-29_09-41-11.png)
@@ -78,13 +78,14 @@ Google is approaching a previously retested monthly order block - setting up for
 
 I’ll be watching closely for potential setups within the broader monthly range between $150 and $143. That said, if this level fails to hold, we could see a deeper breakdown toward significantly lower prices. Patience and clear structure will be key here. 
 
-![$GOOG monthly]/assets/img/2025/march/GOOG_2025-03-29_08-53-00.png)
+![$GOOG monthly](/assets/img/2025/march/GOOG_2025-03-29_08-53-00.png)
 *$GOOG - Monthly chart*
 
 ### $NKE – Heading for Covid Low?
 
 $NKE Nike has been on an extreme bearish move since the peaks in 2021, and currently we are just positioned right above the COVID-19 lows where we had an explosive reaction during March 2020. This can go many ways, but currently looks like we are heading to take the COVID low liquidity and I could see price have an explosive reaction or move further south doing a proper retest at the monthly order block at $53.
-![$nke monthly][(assets/img/2025/march/NKE_2025-03-29_09-45-03.png)
+
+![$nke monthly](/assets/img/2025/march/NKE_2025-03-29_09-45-03.png)
 *$NKE - Monthly chart*
 
 ## 🔭 Long-Term Watch – HTF Moves into AOI
@@ -96,14 +97,19 @@ Long-term positions require long-term planning. That includes not just the techn
 ### $MSFT – HTF Move to the Downside**
 
 Microsoft is making moves heading towards high probability level retesting the order block at $330-$340. This might take some weeks or months to reach, but if we get there, I will monitor the lower timeframes for high-conviction trade. Microsoft is one of those stocks where I would I like to be positioned for the long term.
-![$AAPL monthly ](/assets/img/2025/march/MSFT_2025-03-29_08-17-52.png)
+
+![$MSFT monthly](/assets/img/2025/march/MSFT_2025-03-29_08-17-52.png)
+*$MSFT - Monthly chart*
+
 ### $AAPL – Possibly confirmed Bearish Monthly Structure
 
 Still waiting on the monthly close to confirm a bearish monthly structure on $AAPL.  
 If confirmed, $195 becomes a high-probability target as it's the 0.618 fibonacci level and perfectly lines up with the breakout of the previous range.
 
 That said, as an OB trader, my real focus is the $170–$180 monthly order block. That’s where I’ll be watching for a trade setup or aggressive entry. 👀
-![$AAPL](/assets/img/2025/march/AAPL_2025-03-29_08-36-07.png)
+
+![$AAPL monthly](/assets/img/2025/march/AAPL_2025-03-29_08-36-07.png)
+*$AAPL - Monthly chart*
 
 ## 🌕  Bonus - Short sell opportunity 
 $WMT (Walmart) looks like it's heading into a tough few months and possibly 
@@ -126,8 +132,9 @@ Until next month,
 
 If you’re looking to refine your own trading process, I’ve built a free toolbox with the exact tools, workflows, and strategy templates I use as a part-time trader.
 
-→ [Explore the Trader Gu’s Toolbox](https://www.tradergu.com)  
-Built to help you trade with structure, clarity, and conviction.
+→ [Explore the The Part-Time Trader’s Toolbox:](https://www.tradergu.com)  
+Tools, Strategies & Insights for High-Conviction Trading 🧲
+
 
 ## 👇 Let’s Trade Notes
 
@@ -135,7 +142,7 @@ What setups are on your radar this month?
 Drop a comment below or send me a message on [X](https://x.com/trader_gu) -  I’d love to hear what you’re watching.
 
 📬 _This report goes out to subscribers **one week before** it’s published on my [website](https://www.tradergu.com/)._  
-Want early access to future editions?  [Subscribe here](#) or follow on [X](https://x.com/trader_gu) for real-time trade updates and trading content tailored for part-time traders.
+Want early access to future editions?  [Subscribe here](https://www.tradergu.com) or follow on [X](https://x.com/trader_gu) for real-time trade updates and trading content tailored for part-time traders.
 
 
 <script src="https://giscus.app/client.js"
