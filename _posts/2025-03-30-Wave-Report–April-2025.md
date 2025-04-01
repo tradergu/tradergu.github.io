@@ -14,7 +14,7 @@ image:
 ## ⚡️ TL;DR – Quick Snapshot
 
 👀 Developing Trades: $PYPL, $TSLA  
-🧲 Approaching kKe Levels: $GOOG, $NKE    
+🧲 Approaching Key Levels: $GOOG, $NKE    
 🔭 HTF Watchlist: $MSFT, $AAPL  
 🌕 Bonus Short Idea: $WMT  
   
