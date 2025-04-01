@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fa-newspaper
+icon: fas fa-file-waveform
 order: 2
 ---
 
