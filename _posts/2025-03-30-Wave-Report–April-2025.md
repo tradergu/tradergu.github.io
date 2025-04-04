@@ -29,7 +29,7 @@ Inside, you’ll find the tickers on my watchlist, the Areas of Interest (AOI) I
 
 Let’s take a look at what’s building for April 👇
 
-## 👀 Developing Trades - Inside the  Area of Interest (AOI)
+## 👀 Developing Trades - Inside my  Area of Interest (AOI)
 These are potential setups building in my area of interest and the ones that I am tracking on the daily and weekly time frames for potential entries.
 
 ### $PYPL – Daily Reversal Structure Forming
@@ -65,7 +65,7 @@ Exciting times!
 ![$TSLA daily chart](assets/img/2025/march/TSLA_2025-03-29_09-42-31.png)
 *$TSLA - Daily chart*
 
-## 🧲 Trades Approaching AOI
+## 🧲 Approaching my Area of Interest (AOI)
 
 Tickers approaching my areas of interest often exhibit sharp, volatile reactions. Sometimes, price breaks down entirely. Other times, it begins to form a structure that can evolve into a trade over days, weeks even months.
 
@@ -87,7 +87,7 @@ $NKE Nike has been on an extreme bearish move since the peaks in 2021, and curre
 ![$nke monthly](/assets/img/2025/march/NKE_2025-03-29_09-45-03.png)
 *$NKE - Monthly chart*
 
-## 🔭 Long-Term Watch
+## 🔭 Long-Term Watchlist
 
 These are tickers I’m monitoring on the **monthly or higher timeframes**. While they may currently be far from my area of interest, I track them to stay aware of how price evolves as it approaches key levels. Monitoring on the higher timeframes allows me to prepare well in advance and be ready to position myself when trade opportunities emerge.
 
@@ -141,7 +141,7 @@ What setups are on your radar this month?
 Drop a comment below or send me a message on [X](https://x.com/trader_gu) -  I’d love to hear what you’re watching.
 
 📬 _This report goes out to subscribers **one week before** it’s published on my [website](https://www.tradergu.com/)._  
-Want early access to future editions?  [Subscribe here](https://www.tradergu.com) or follow on [X](https://x.com/trader_gu) for real-time trade updates and trading content tailored for part-time traders.
+Want early access to future editions?  [Subscribe here](https://tradergu.substack.com/) or follow on [X](https://x.com/trader_gu) for real-time trade updates and trading content tailored for part-time traders.
 
 
 <script src="https://giscus.app/client.js"
