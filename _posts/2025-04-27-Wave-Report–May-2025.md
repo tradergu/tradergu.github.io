@@ -4,10 +4,10 @@ date: 2025-04-27 21:00:00 0100
 categories: [Trader Gu's Wave Report]
 tags: [wave-report, newsletter]
 image:
-  path: /assets/img/2025/april/trader-gu-wave-report-banner.png
+  path: /assets/img/2025/april/wave-report-banner-may-2025
   lqtip:
 ---
-
+g
 **Monthly Newsletter - May 2025**  
 **Structured Analysis - High-Conviction Trading - Built for Part-Time Traders**  
 
