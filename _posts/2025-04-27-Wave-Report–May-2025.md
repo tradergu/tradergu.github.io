@@ -7,7 +7,7 @@ image:
   path: /assets/img/2025/april/wave-report-banner-may-2025.png
   lqtip:
 ---
-g
+
 **Monthly Newsletter - May 2025**  
 **Structured Analysis - High-Conviction Trading - Built for Part-Time Traders**  
 
@@ -39,10 +39,10 @@ Despite some volatility, we’re still respecting the monthly order block — al
 
 This signals a high probability of moving higher. That said, I’m expecting a retracement back toward the preferred entry around $262, where the new weekly order block has formed.
 
-![$TSLA Weekly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/tsla-w.png)
+![$TSLA Weekly](/assets/img/2025/april/tsla-w.png)
 *$TSLA - Weekly*
 
-![$TSLA Monthly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/tsla-m.png)
+![$TSLA Monthly](/assets/img/2025/april/tsla-m.png)
 *$TSLA - Monthly*
 
 ### $AMD – Waiting for a high-conviction trigger
@@ -55,13 +55,11 @@ For now, we’re still in a bearish weekly trend, but if we close above **$110**
 If this doesn’t happen, I could see AMD continuing lower toward the COVID lows around **$40**.  
 That said, I'm interested in a setup from the current level — but only with the right confirmation.
 
-
-![$AMD Weekly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/amd-w.png)
+![$AMD Weekly](/assets/img/2025/april/amd-w.png)
 *$AMD - Weekly*
 
-![$AMD Monthly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/amd-m.png)
+![$AMD Monthly](/assets/img/2025/april/amd-m.png)
 *$AMD - Monthly*
-
 
 ---
 
@@ -73,7 +71,7 @@ I’m looking to enter a trade around the monthly order block at $31–$30, whic
 
 Overall, I am bullish on $JD until we reach the monthly bearish order block at $55–$58, where I would look to take profit at high-timeframe resistance.
 
-![$JD Monthly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/jd-m.png)
+![$JD Monthly](/assets/img/2025/april/jd-m.png)
 *$JD - Monthly*
 
 ### $CMG – Moving to the Order Block or Missing the Ride?
@@ -82,9 +80,8 @@ Chipotle ($CMG) has been a beast over the past few years, and I've been watching
 I’m not chasing trades, but this might be one of those occasions where I just have to accept missing the move.  
 Let’s see how it plays out.
 
-![$CMG Monthly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/cmg-m.png)
+![$CMG Monthly](/assets/img/2025/april/cmg-m.png)
 *$CMG - Monthly*
-
 
 ---
 
@@ -95,7 +92,7 @@ These are tickers I’m monitoring on the **monthly or higher timeframes** for f
 Whirlpool $WHR has been on a steady downtrend since its all-time high around mid-July 2021, and so far, there are no signs of a trend reversal on the higher timeframes.  
 I’d be interested in looking for a trade **after** we take out the COVID low at **$64** - there's a high probability that liquidity will be swept at that level.
 
-![$WHR Monthly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/WHR-m.png)
+![$WHR Monthly](/assets/img/2025/april/whr-m.png)
 *$WHR - Monthly*
 
 ---
@@ -110,10 +107,10 @@ We are now inside my area of interest - the monthly order block around 400 DKK.
 A first take-profit level from this zone would be the bearish order block around 560 DKK.  
 That said, this could also develop into a weekly and potentially monthly market structure shift to the upside.
 
-![$NOVO Monthly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/NOVO-m.png)
+![$NOVO Monthly](/assets/img/2025/april/novo-m.png)
 *$NOVO - Monthly*
 
-![$NOVO Weekly](https://github.com/tradergu/tradergu.github.io/blob/main/assets/img/2025/april/NOVO-w.png)
+![$NOVO Weekly](/assets/img/2025/april/novo-w.png)
 *$NOVO - Weekly*
 
 ---
