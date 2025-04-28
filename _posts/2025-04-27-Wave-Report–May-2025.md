@@ -4,7 +4,7 @@ date: 2025-04-27 21:00:00 0100
 categories: [Trader Gu's Wave Report]
 tags: [wave-report, newsletter]
 image:
-  path: /assets/img/2025/april/wave-report-banner-may-2025
+  path: /assets/img/2025/april/wave-report-banner-may-2025.png
   lqtip:
 ---
 g
