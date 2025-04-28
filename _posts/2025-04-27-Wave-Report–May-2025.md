@@ -32,6 +32,7 @@ Let’s dive into what’s shaping up for May 👇
 ---
 
 ## 👀 Developing Trades - Inside my Area of Interest (AOI)
+These are potential setups building in my area of interest and the ones that I am tracking on the daily and weekly time frames for potential entries.
 
 ### $TSLA – Ready for a big move!
 Tesla was featured in the April Wave Report, and we've seen a huge move to the downside and back.  
@@ -64,6 +65,9 @@ That said, I'm interested in a setup from the current level — but only with th
 ---
 
 ## 🧲 Approaching my Area of Interest (AOI)
+Tickers approaching my areas of interest often exhibit sharp, volatile reactions. Sometimes, price breaks down entirely. Other times, it begins to form a structure that can evolve into a trade over days, weeks even months.
+
+When price reaches a high-conviction zone, I often consider aggressive entries—not because the setup is fully confirmed, but to ensure I’m positioned early at key levels while the trade thesis has time to develop.
 
 ### $JD – Monthly retracement for the next leg higher
 Jindong ($JD) has been building a steady bullish market structure since May 2024.  
@@ -86,8 +90,10 @@ Let’s see how it plays out.
 ---
 
 ## 🔭 Long-Term Watchlist
+These are tickers I’m monitoring on the monthly or higher timeframes. While they may currently be far from my area of interest, I track them to stay aware of how price evolves as it approaches key levels. Monitoring on the higher timeframes allows me to prepare well in advance and be ready to position myself when trade opportunities emerge.
 
-These are tickers I’m monitoring on the **monthly or higher timeframes** for future setups.
+Long-term positions require long-term planning. That includes not just the technical setup, but also making sure I have capital available to allocate when the time is right.
+
 ### $WHR – Move to Covid Low?
 Whirlpool $WHR has been on a steady downtrend since its all-time high around mid-July 2021, and so far, there are no signs of a trend reversal on the higher timeframes.  
 I’d be interested in looking for a trade **after** we take out the COVID low at **$64** - there's a high probability that liquidity will be swept at that level.
