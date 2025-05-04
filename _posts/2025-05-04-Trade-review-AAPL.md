@@ -1,6 +1,6 @@
 ---
 title: "Trade Review: $AAPL – Sometimes Aggressive Entries Are the Only Way In"
-date: 2025-05-04 11.40:00:00 0100
+date: 2025-05-04 11:40:00 0100
 categories: [Trade review]
 tags: [aapl, trade-review]
 image:
