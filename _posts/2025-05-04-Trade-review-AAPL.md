@@ -1,17 +1,18 @@
 ---
-title: Trade Review: $AAPL – Sometimes Aggressive Entries Are the Only Way In
+title: "Trade Review: $AAPL – Sometimes Aggressive Entries Are the Only Way In"
 date: 2025-05-04 12:00:00 0100
-categories: [Trade Review]
+categories: [Trade review]
 tags: [aapl, trade-review]
 image:
   path: /assets/img/2025/may/AAPL-5-monthly.png
+  lqtip:
 ---
 
 ## Apple ($AAPL) Trade Review – High-conviction AOI + Aggressive Entry
 
 This was a trade that reinforced why I sometimes enter aggressively, even without a fully developed trigger.
 
-In the [April Wave Report](https://www.tradergu.com/posts/2025-03-30-Wave-Report–April-2025), I outlined the $170–$180 monthly order block as a **high-conviction area of interest**, calling it “the real focus” for a long setup. I’ve been watching this level form for months. It finally tapped in - and when it did, I was ready with the long order with defined risk to participate in a possible move higher - which ended up paying off big time.
+In the [April Wave Report](https://www.tradergu.com/posts/Wave-Report-April-2025), I outlined the $170–$180 monthly order block as a **high-conviction area of interest**, calling it “the real focus” for a long setup. I’ve been watching this level form for months. It finally tapped in - and when it did, I was ready with the long order with defined risk to participate in a possible move higher - which ended up paying off big time.
 
 That’s where my aggressive entry model came into play. Waiting for confirmation would’ve meant missing the move entirely.
 
@@ -25,9 +26,9 @@ The area of interest I was looking to trade is the 170-180 monthly order block. 
 *$AAPL - Area of Interest, weekly chart*
 
 ### ✅ Aggressive Entry
-I took an aggressive entry at $176.96 with a stop below the invalidation level at $164 (monthly OB low). Sometimes price reacts explosively at your AOI, sometimes it doesn’t—and it can take weeks or months before a clean trigger forms.
+I took an aggressive entry at $176.96 with a stop below the invalidation level at $164 (monthly OB low). Sometimes price reacts explosively at your AOI, sometimes it doesn’t and it can take weeks or months before a clean trigger forms.
 
-What I usually do at high-conviction levels is take an early position, betting we either get that fast reaction or a setup starts to build. If it develops, I’ve already got a solid entry I can build on. It doesn’t always work, but I like the risk/reward at strong AOIs.
+What I usually do at high-conviction levels is take an early position, betting we either get that fast reaction or a setup starts to build. If it develops, I’ve already got a solid entry I can build on. It doesn’t always work, but I enjoy the risk/reward at strong AOIs.
 
 ![$AAPL target level](/assets/img/2025/may/AAPL-3-weekly.png)
 *$AAPL - Entry level*
