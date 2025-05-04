@@ -17,7 +17,7 @@ In the [April Wave Report](https://www.tradergu.com/posts/Wave-Report-April-2025
 That’s where my aggressive entry model came into play. Waiting for confirmation would’ve meant missing the move entirely.
 
 ### 📍 Area of Interest
-The area of interest I was looking to trade is the 170-180 monthly order block. I've been waiting for this area for many weeks or months. The weekly chart also revealed a weekly order block at that level which would be my main level for our entry position with a clear invalidation below the lows. 
+The area of interest I was looking to trade is the $170–$180 monthly order block, which I’ve been watching for months. The weekly chart also revealed a weekly order block at that level which would be my main level for our entry position with a clear invalidation below the lows. 
 
 ![$AAPL AOI monthly](/assets/img/2025/may/AAPL-1-monthly.png)
 *$AAPL - Area of Interest, monthly chart*
