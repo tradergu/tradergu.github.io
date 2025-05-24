@@ -1,5 +1,5 @@
 ---
-title: "Order blocks for high-conviction trading"
+title: "Order Blocks for High-conviction Trading"
 date: 2025-05-24 11:05:00 0100
 categories: [Trading Tools]
 tags: [order-blocks, trading-tools]
@@ -11,7 +11,7 @@ image:
 ## Introduction
 There are hundreds of trading methodologies, strategies, and approaches to the market. Some of the most common include the 200-day moving average, Fibonacci expansions, Elliott Wave Theory, bar counting, RSI and stochastic indicators, chart patterns, trendlines, and more.
 
-### 📝 Order-Block Theory
+### Order-Block Theory
 The strategy that truly resonated with my trading persona is Order Blocks (OB). And believe me, I’ve tried all the strategies mentioned above. 😅
 
 Order blocks are essentially large buy or sell orders placed by institutions that lead to significant price movements. These zones act as areas of liquidity where price often reacts, giving traders opportunities to enter high-probability setups. The main idea behind order blocks is to trade at points of institutional interest rather than following retail trading patterns.
@@ -20,7 +20,7 @@ Order blocks are essentially large buy or sell orders placed by institutions tha
 {: .prompt-tip }
 
 
-### 👀 How to Spot an Order Block
+### How to Spot an Order Block
 Order blocks can be defined in several ways. The definition I follow is:
 - **Bullish Order Block**: The zone from the candle open to the top of the wick on the _last bearish candle_ before a significant move to the upside, confirming a bullish market structure.
 - **Bearish Order Block**: The zone from the candle open to the bottom of the wick on the _last bullish candle_ before a significant move to the downside, confirming a bearish market structure.
@@ -34,7 +34,7 @@ Order blocks can be defined in several ways. The definition I follow is:
 ![$NVDA order block](/assets/img/2025/may/NVDA-OB-M.png)
 *$NVDA - Bullish order block, monthly
 
-### ✅ Why I Enjoy Trading Order Blocks
+### Why I Enjoy Trading Order Blocks
 
 - ✅ Order blocks typically yield a good risk-to-reward ratio 
     
@@ -48,7 +48,7 @@ Order blocks can be defined in several ways. The definition I follow is:
 ![$BABA trade](/assets/img/2025/may/BABA-OB-M-RR.png)
 *$BABA - Position entry, sl and target*
 
-### 🧲 Order Blocks as Areas of Interest
+### Order Blocks as Areas of Interestgit 
 High-timeframe order blocks serve as areas of interest rather than direct entry triggers - at least from a higher timeframe perspective. Simply identifying an order block may not be enough; you need an entry trigger methodology.
 
 A trade setup for me consists of an **Area of Interest + Entry Trigger ✅**. However, I sometimes take aggressive entry positions at high-conviction levels, anticipating that a confirmed entry trigger will develop in the coming weeks - as I did in my recent [$AAPL trade review.](https://www.tradergu.com/posts/Trade-review-AAPL/)
