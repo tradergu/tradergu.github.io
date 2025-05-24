@@ -1,8 +1,8 @@
 ---
-title: Order blocks for high-conviction trading
+title: "Order blocks for high-conviction trading"
 date: 2025-05-24 11:05:00 0100
 categories: [Trading Tools]
-tags: [order-blocks], [trading-tools]
+tags: [order-blocks, trading-tools]
 image:
   path: /assets/img/2025/may/assets/img/2025/may/TG-Strategy-Banner-OB.png
   lqtip:
@@ -36,7 +36,7 @@ Order blocks can be defined in several ways. The definition I follow is:
 
 ### ✅ Why I Enjoy Trading Order Blocks
 
-- ✅ Order blocks typically yield a good risk-to-reward ratio. 
+- ✅ Order blocks typically yield a good risk-to-reward ratio 
     
 - ✅ Easy to spot - no need for indicators
     
