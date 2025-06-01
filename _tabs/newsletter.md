@@ -25,7 +25,8 @@ Inside, you’ll find the tickers on my watchlist, the Areas of Interest (AOI) I
 This Wave Report exists to help me - and hopefully you - **stay focused on the few, high-conviction setups** that matter.
 
 ## 📬 Latest Editions
-- Coming soon - June 2025
+- Coming soon - July 2025
+- [Wave Report – June 2025](https://www.tradergu.com/posts/Wave-Report-June-2025/)
 - [Wave Report – May 2025](https://www.tradergu.com/posts/Wave-Report-May-2025/)
 - [Wave Report – April 2025](https://www.tradergu.com/posts/Wave-Report-April-2025/)
 
