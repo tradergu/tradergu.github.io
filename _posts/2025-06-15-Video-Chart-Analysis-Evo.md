@@ -1,6 +1,6 @@
 ---
 title: "Video Chart Analysis: $EVO - June 15, 2025"
-date: 2025-06-19 22:00:00 0100
+date: 2025-06-15 22:00:00 0100
 categories: [Video Chart Analysis]
 tags: [evo, youtube, video-chart-analysis]
 image:
@@ -8,7 +8,7 @@ image:
   lqtip:
 ---
 
-Starting off a new series of chart analysis in video format on my new YouTube channel. First off is an overview of EVO Evolution Gaming that I've been following for several months and regularly posted on my X-Feed. Last week, my friend [Eric García](https://x.com/SuEricGP) Asked me about the recent price action in [Evolution Gaming](https://www.evolution.com/), and that inspired me to create a quick video analysis.
+Starting off a new series of chart analysis in video format on my new [YouTube channel](https://www.youtube.com/@trader_gu). First off is an overview of $EVO Evolution Gaming that I've been following for several months and regularly posted on my X-Feed. Last week, my friend [Eric García](https://x.com/SuEricGP) Asked me about the recent price action in [Evolution Gaming](https://www.evolution.com/), and that inspired me to create a quick video analysis.
 
 Thanks, Eric, for the inspiration — and for those interested in thoughtful, high-quality financial analysis, I highly recommend his account.
 
