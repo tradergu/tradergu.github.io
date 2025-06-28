@@ -14,7 +14,7 @@ This could signal the early stages of a high-timeframe reversal.
 
 In this video, I break down the price action and share what I’m looking for in a potential trade over the coming weeks.
 
-{% include embed/youtube.html id='-kri822wxjk&t' %}
+{% include embed/youtube.html id='-kri822wxjk' %}
 *Chart Analysis - $INTC*
 
 ---
