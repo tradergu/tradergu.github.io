@@ -4,7 +4,7 @@ date: 2025-06-27 23:00:00 0100
 categories: [Video Chart Analysis]
 tags: [$INTC$, youtube, video-chart-analysis]
 image:
-  path: /assets/img/2025/june/banner-hims-2025-06-23.png
+  path: /assets/img/2025/june/banner-intc-2025-06-27.png
   lqtip:
 ---
 
