@@ -76,7 +76,7 @@ When price reaches a high-conviction zone, I often consider aggressive entries -
 ### $AMD - Waiting for retracement
 After recently realizing significant profit in an $AMD trade, I am now expecting or at least waiting for a possible retracement for a retest of the $102 newly formed monthly order block. As we have already confirmed a weekly bullish market structure shift, I could see that we are not reaching this new order block by but but reversing but retracing to the 110 level for me. After exiting such a profitable trade, I am now patiently waiting for price to move back to my area of interest to trade. 
 
-![$AMD Monthly](/assets/img/2025/june/AMD-m.png)
+![$AMD Monthly](/assets/img/2025/june/amd-m.png)
 *$AMD - Monthly*
 
 ### $HIMS - Waiting for the Retest
