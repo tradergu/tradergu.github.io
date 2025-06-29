@@ -160,7 +160,7 @@ Until next month,
 
 ---
 
-## 🔧 Want to go deeper?
+## 🔧 Want To Dive Deeper?
 
 If you’re looking to refine your own trading process, I’ve built a free toolbox with the exact tools, workflows, and strategy templates I use as a part-time trader.
 
