@@ -18,14 +18,15 @@ Inside, you’ll find the tickers on my watchlist, the Areas of Interest (AOI) I
 ### Inside the report:
 
 - 👀 Developing setups of tickers inside my AOI
-- 🧲 Tickers approaching key levels
+- 🧲 Tickers approaching my AOI
 - 🔭 High timeframe moves for long-term preparation
 - 🌕 Monthly bonus chart
 
 This Wave Report exists to help me - and hopefully you - **stay focused on the few, high-conviction setups** that matter.
 
 ## 📬 Latest Editions
-- Coming soon - July 2025
+- Coming soon - Aug 2025
+- [Wave Report – July 2025](https://www.tradergu.com/posts/Wave-Report-July-2025/)
 - [Wave Report – June 2025](https://www.tradergu.com/posts/Wave-Report-June-2025/)
 - [Wave Report – May 2025](https://www.tradergu.com/posts/Wave-Report-May-2025/)
 - [Wave Report – April 2025](https://www.tradergu.com/posts/Wave-Report-April-2025/)
