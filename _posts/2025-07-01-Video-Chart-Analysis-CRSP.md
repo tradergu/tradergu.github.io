@@ -8,9 +8,9 @@ image:
   lqtip:
 ---
 
-$CRSP Crispr Therapeutics just confirmed a weekly followed by a monthly Market Structure Shift Opening up for a high probability move to the upside and a possible confirmed bottom structure. 
+$CRSP (Crispr Therapeutics) just confirmed a **weekly**, followed by a **monthly Market Structure Shift** — setting up for a high-probability move to the upside and possibly establishing a confirmed bottoming structure. 
 
-Full analysis in the video below. 
+Watch the full breakdown in the video below:
 
 
 {% include embed/youtube.html id='GdCyaDbs-KA' %}
