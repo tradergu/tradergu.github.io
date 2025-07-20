@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-file-waveform
-order: 2
+order: 3
 ---
 
 ![Profile Trader Gu](/assets/img/trader-gu-wave-report-banner.png)
