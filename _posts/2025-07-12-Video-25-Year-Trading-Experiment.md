@@ -1,5 +1,5 @@
 ---
-title: "Video Trade Journal: $OSCR - July 12, 2025"
+title: "25 Year Trading Experiment: Video Introduction - July 12, 2025"
 date: 2025-07-12 22:00:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update, youtube]
