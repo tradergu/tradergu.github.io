@@ -21,9 +21,7 @@ To answer a key question over the long haul:
 
 ## What This Experiment Tracks:
 I'm documenting this journey through:  
-📈 Monthly updates • 💬 Trade insights • 📉 Drawdowns • 🧠 Mindset shifts
-
-Every win, loss, lesson, and market condition is shared publicly to keep this journey transparent and useful for others.
+📈 Live Trades | 💼 Portfolio Updates | 🟢 Wins | 🔴 Losses | 🧠 Lessons-learned
 
 Whether you're a part-time trader, long-term investor, or just curious about market performance—this project is designed to inform, inspire, and start conversations around consistency, risk, and trading growth.
 
