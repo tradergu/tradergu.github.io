@@ -14,14 +14,17 @@ Every month, I invest 10,000 SEK (~$1,000), split evenly between:
 - 🌊 An **active portfolio** — where I apply my own high-conviction trading strategies.
 
 ### The Goal:
-To answer a key question over the long haul:  
-**Can disciplined, part-time trading outperform global passive investing over 25 years?**
+Successfully outperform a global index over a 25-year time period. 
 
 ---
 
 ## What This Experiment Tracks:
 I'm documenting this journey through:  
-📈 Live Trades | 💼 Portfolio Updates | 🟢 Wins | 🔴 Losses | 🧠 Lessons-learned
+- 📈 Live Trades   
+- 💼 Portfolio Updates  
+- 🟢 Wins  
+- 🔴 Losses 
+- 🧠 Lessons-learned
 
 Whether you're a part-time trader, long-term investor, or just curious about market performance—this project is designed to inform, inspire, and start conversations around consistency, risk, and trading growth.
 
