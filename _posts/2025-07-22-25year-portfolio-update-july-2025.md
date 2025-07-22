@@ -92,7 +92,7 @@ As for my trading performance, I’m still a bit disappointed in a few decisions
 
 How are you tracking your trading performance?
 
-💬 Drop a comment below, share your thoughts on my [YouTube channe](https://youtu.be/2dh3lpdWr7g) or connect with me on [X](https://x.com/trader_gu) - I'm always interested to connect with like-minded people.
+💬 Drop a comment below, share your thoughts on my [YouTube channel](https://youtu.be/2dh3lpdWr7g) or connect with me on [X](https://x.com/trader_gu) - I'm always interested to connect with like-minded people.
 
 <script src="https://giscus.app/client.js"
         data-repo="tradergu/tradergu.github.io-comments"
