@@ -8,7 +8,7 @@ image:
   lqtip:
 ---
 
-It's the middle of the summer, and it's been 180 days since I started the 25 Year Trading Experiment. Much has happened in the past few months: the portfolio has increased, lessons learn and I'm thrilled sharing the July update
+It's the middle of the summer, and it's been 180 days since I started the 25 Year Trading Experiment. Much has happened in the past few months: the portfolio has increased, lessons learn and I'm thrilled sharing the July update.
 
 All trades are always shared live on [X.com/tradergu](https://x.com/trader_gu), and the [public trading dashboard](https://docs.google.com/spreadsheets/d/1vCsMDJjEhU-OZyRrSXDfPYIgLufIaJ6GOod4ubMTBbI/edit?pli=1&gid=0#gid=0) is always updated with the latest trade details and up-to-date portfolio allocations. 
 
@@ -81,17 +81,16 @@ For a full overview of the experiment’s purpose and structure, check out my [F
 * 🌐 Transparency: Every trade shared publicly.
 
 ## Summary
-Six months have flown by, and although it’s been a highly volatile first two quarters, I’m thrilled to see the passively invested portfolio out of its long-term drawdown and currently sitting at 🟢 +4.5%. Meanwhile, the global index remains in drawdown — highlighting how dollar-cost averaging (DCA) can be a powerful strategy to benefit from volatility in both directions. If I had lump-sum invested all deposits into the passive portfolio at the beginning, it would still be in drawdown.
+Six months have flown by, and although it’s been a highly volatile first two quarters, I’m thrilled to see the passively invested portfolio is out of its long-term drawdown and currently sitting at 🟢 +4.5%. Meanwhile, my [Global Index](https://www.nordnet.se/fonder/lista/storebrand-global-all-countries-sek-fdd6454b) benchmark remains in drawdown — highlighting how dollar-cost averaging (DCA) can be a powerful strategy to benefit from volatility in both directions. If I had lump-sum invested all deposits into the passive portfolio at the beginning, it would still be in drawdown.
 
 ![25 year trading experiment - DCA](/assets/img/2025/july/25year-dca.png)  
-*Dollar Cost Averaging (DCA)*
+* Passively invested portfolio benefiting from dollar-cost averaging (DCA) )*
 
 As for my trading performance, I’m still a bit disappointed in a few decisions (which I’ll walk through in an upcoming trade review), but overall, I’m satisfied. I’ve stuck to the strategy, executed consistently, and the actively traded portfolio is now showing meaningful profits.
 
 ---
 
-Are you working on a similar experiment or thinking of going more public with your trading journey?
-
+How are you tracking your trading performance?
 
 💬 Drop a comment below, share your thoughts on my [YouTube channe](https://youtu.be/2dh3lpdWr7g) or connect with me on [X](https://x.com/trader_gu) - I'm always interested to connect with like-minded people.
 
