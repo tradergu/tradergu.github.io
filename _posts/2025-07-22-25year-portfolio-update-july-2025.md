@@ -30,10 +30,10 @@ On a month-to-month perspective, the actively traded portfolio has outperformed 
 
 Although the first month was the best performer, the portfolio size was so small it barely made a dent in overall performance. The past three months have delivered a steady ~9% monthly portfolio increase.
 
-![25 year trading experiment - Month by Month](/assets/img/2025/july/25year-performance-monthly-table.png)
+![25 year trading experiment - Month by Month](/assets/img/2025/july/25year-monthly-table.png)
 *Performance: Month by Month, Table*
 
-![25 year trading experiment - Month by Month](/assets/img/2025/july/25year-performance-monthly-chart.png)
+![25 year trading experiment - Month by Month](/assets/img/2025/july/25year-monthly-chart.png)
 *Performance: Month by Month, Chart*
 
 
