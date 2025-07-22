@@ -51,7 +51,7 @@ The total risk of invested capital is currently ⚠️ 20% with a range of risk 
 ### Open Positions: Detailed Overview
 The following table contains the entry, stop loss, position size, and current market prices. 
 
-![Trade](/assets/img/2025/july/25year-open-trade-details.png)
+![Trade](/assets/img/2025/july/25year-open-trades-details.png)
 *Open Trade: Details*
 
 ---
