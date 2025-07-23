@@ -84,7 +84,7 @@ For a full overview of the experiment’s purpose and structure, check out my [F
 Six months have flown by, and although it’s been a highly volatile first two quarters, I’m thrilled to see the passively invested portfolio is out of its long-term drawdown and currently sitting at 🟢 +4.5%. Meanwhile, my [Global Index](https://www.nordnet.se/fonder/lista/storebrand-global-all-countries-sek-fdd6454b) benchmark remains in drawdown — highlighting how dollar-cost averaging (DCA) can be a powerful strategy to benefit from volatility in both directions. If I had lump-sum invested all deposits into the passive portfolio at the beginning, it would still be in drawdown.
 
 ![25 year trading experiment - DCA](/assets/img/2025/july/25year-dca.png)  
-* Passively invested portfolio benefiting from dollar-cost averaging (DCA) )*
+*Passively invested portfolio benefiting from dollar-cost averaging (DCA)*
 
 As for my trading performance, I’m still a bit disappointed in a few decisions (which I’ll walk through in an upcoming trade review), but overall, I’m satisfied. I’ve stuck to the strategy, executed consistently, and the actively traded portfolio is now showing meaningful profits.
 
