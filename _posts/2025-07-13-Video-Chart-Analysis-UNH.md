@@ -1,5 +1,5 @@
 ---
-title: "Video Chart Analysis: $UNH - July 13, 2025"
+title: "📽️ Video Chart Analysis: $UNH - July 13, 2025"
 date: 2025-07-13 15:00:00 0100
 categories: [Video Chart Analysis]
 tags: [$tsla, youtube, video-chart-analysis]

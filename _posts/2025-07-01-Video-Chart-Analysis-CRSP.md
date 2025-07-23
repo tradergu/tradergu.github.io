@@ -1,5 +1,5 @@
 ---
-title: "Video Chart Analysis: $CRSP - July 1, 2025"
+title: "📽️ Video Chart Analysis: $CRSP - July 1, 2025"
 date: 2025-07-01 19:30:00 0100
 categories: [Video Chart Analysis]
 tags: [$crsp, youtube, video-chart-analysis]

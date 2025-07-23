@@ -1,5 +1,5 @@
 ---
-title: "Video Trade Journal: $OSCR - July 19, 2025"
+title: "📽️ Video Trade Journal: $OSCR - July 19, 2025"
 date: 2025-07-19 22:00:00 0100
 categories: [Video Trade Journal]
 tags: [$oscr, youtube, video-trade-journal]

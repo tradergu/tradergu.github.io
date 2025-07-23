@@ -1,5 +1,5 @@
 ---
-title: "Video Chart Analysis: $INTC - June 27, 2025"
+title: "📽️ Video Chart Analysis: $INTC - June 27, 2025"
 date: 2025-06-27 23:00:00 0100
 categories: [Video Chart Analysis]
 tags: [$INTC$, youtube, video-chart-analysis]

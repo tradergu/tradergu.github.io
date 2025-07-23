@@ -1,5 +1,5 @@
 ---
-title: "Video Chart Analysis: $HIMS - June 23, 2025"
+title: "📽️ Video Chart Analysis: $HIMS - June 23, 2025"
 date: 2025-06-23 21:15:00 0100
 categories: [Video Chart Analysis]
 tags: [$hims$, youtube, video-chart-analysis]

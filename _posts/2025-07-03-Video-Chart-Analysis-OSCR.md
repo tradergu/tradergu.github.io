@@ -1,5 +1,5 @@
 ---
-title: "Video Chart Analysis: $OSCR - July 3, 2025"
+title: "📽️ Video Chart Analysis: $OSCR - July 3, 2025"
 date: 2025-07-03 15:00:00 0100
 categories: [Video Chart Analysis]
 tags: [$oscr, youtube, video-chart-analysis]

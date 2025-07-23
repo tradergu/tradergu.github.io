@@ -1,5 +1,5 @@
 ---
-title: "Video Chart Analysis: $EVO - June 15, 2025"
+title: "📽️ Video Chart Analysis: $EVO - June 15, 2025"
 date: 2025-06-15 22:00:00 0100
 categories: [Video Chart Analysis]
 tags: [evo, youtube, video-chart-analysis]
