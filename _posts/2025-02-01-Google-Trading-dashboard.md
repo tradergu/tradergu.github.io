@@ -26,7 +26,7 @@ This dashboard showcases a lot of data, but here are the key highlights:
 
 ## How to Get the Template
 
-1. **Open** my shared [Google Sheet Dashboard](https://docs.google.com/spreadsheets/d/1vCsMDJjEhU-OZyRrSXDfPYIgLufIaJ6GOod4ubMTBbI/edit?pli=1&gid=0#gid=0)
+1. **Open** my shared [Google Sheet Dashboard](https://dashboard.tradergu.com/)
 2. **Make a copy** and edit as needed.
 
 ## How to Use the Template

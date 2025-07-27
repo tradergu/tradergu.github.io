@@ -10,7 +10,7 @@ image:
 
 It's the middle of the summer, and it's been 180 days since I started the 25 Year Trading Experiment. Much has happened in the past few months: the portfolio has increased, lessons learn and I'm thrilled sharing the July update.
 
-All trades are always shared live on [X.com/tradergu](https://x.com/trader_gu), and the [public trading dashboard](https://docs.google.com/spreadsheets/d/1vCsMDJjEhU-OZyRrSXDfPYIgLufIaJ6GOod4ubMTBbI/edit?pli=1&gid=0#gid=0) is always updated with the latest trade details and up-to-date portfolio allocations. 
+All trades are always shared live on [X.com/tradergu](https://x.com/trader_gu), and the [public trading dashboard](https://dashboard.tradergu.com/) is always updated with the latest trade details and up-to-date portfolio allocations. 
 
 ---
 
