@@ -6,7 +6,7 @@ order: 2
 
 ![Profile Trader Gu](/assets/img/banner-25year.png)
 
-## 25-Year Trading Experiment  
+## 25 Year Trading Experiment  
 In January 2025, I launched an ambitious long-term challenge: to actively trade against a global index benchmark over 25 years. The structure is simple:
 
 Every month, I invest 10,000 SEK (~$1,000), split evenly between:  
@@ -26,7 +26,7 @@ I'm documenting this journey through:
 - 🔴 Losses 
 - 🧠 Lessons-learned
 
-Whether you're a part-time trader, long-term investor, or just curious about market performance—this project is designed to inform, inspire, and start conversations around consistency, risk, and trading growth.
+Whether you're a part-time trader, long-term investor, or just curious about market performance - this project is designed to inform, inspire, and start conversations around consistency, risk, and trading growth.
 
 ---
 
@@ -41,7 +41,7 @@ Whether you're a part-time trader, long-term investor, or just curious about mar
 
 ## 🔍 Follow the Journey
 🧵 All trades are shared live on [x.com/tradergu](https://x.com/trader_gu)  
-📊 Performance is tracked via [my public Google Sheets dashboard](https://docs.google.com/spreadsheets/d/1vCsMDJjEhU-OZyRrSXDfPYIgLufIaJ6GOod4ubMTBbI/edit?pli=1&gid=0#gid=0)
+📊 Performance is tracked via [my public Google Sheets dashboard](https://dashboard.tradergu.com/)
 
 ---
 
