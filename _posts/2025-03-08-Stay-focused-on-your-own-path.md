@@ -1,5 +1,5 @@
 ---
-title: "The Trader’s Mindset: Stay Focused on Your Own Path, Not Others' Mistakes"
+title: "💡 The Trader’s Mindset: Stay Focused on Your Own Path, Not Others' Mistakes"
 date: 2025-03-08 11:00:00 0100
 categories: [Insights]
 tags: [traders-mindset, selfgrowth] #TAG names should always be lowercase separated by commas

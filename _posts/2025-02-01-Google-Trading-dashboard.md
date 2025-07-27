@@ -1,5 +1,5 @@
 ---
-title: "Google Sheets Trading Dashboard: A Free Template for Equity Traders"
+title: "🧰 Google Sheets Trading Dashboard: A Free Template for Equity Traders"
 date: 2025-02-01 09:40:00 0100
 categories: [Trading Tools]
 tags: [trading-tools, google-sheets, dashboard]  #TAG names should always be lowercase separated by comma

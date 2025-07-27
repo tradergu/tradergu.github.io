@@ -1,5 +1,5 @@
 ---
-title: "The 25-Year Trading Experiment (2025-2050)"
+title: "🌊 The 25-Year Trading Experiment (2025-2050)"
 date: 2025-01-22 21:55:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment]  #TAG names should always be lowercase separated by comma

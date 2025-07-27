@@ -1,5 +1,5 @@
 ---
-title: "Trapped by Perfection: When Good Trades Feel Like Mistakes"
+title: "📝 Trapped by Perfection: When Good Trades Feel Like Mistakes"
 date: 2025-02-15 07:00:00 0100
 categories: [Trade Journal Chronicles]
 tags: [trading-journal]  #TAG names should always be lowercase separated by comma

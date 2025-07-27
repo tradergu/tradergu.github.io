@@ -1,5 +1,5 @@
 ---
-title: "Trade Review: $AMD – Be Confident, Not Greedy"
+title: "📊 Trade Review: $AMD – Be Confident, Not Greedy"
 date: 2025-06-19 22:00:00 0100
 categories: [Trade review]
 tags: [amd, trade-review]

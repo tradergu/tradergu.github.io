@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Trader Gu Toolbox"
+title: "👋 Welcome to the Trader Gu Toolbox"
 date: 2025-01-02 14:50:00 0100
 categories: [Insights]
 tags: [selfgrowth]  #TAG names should always be lowercase separated by comma
