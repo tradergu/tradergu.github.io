@@ -1,5 +1,5 @@
 ---
-title: Trader Gu's Wave Report – June 2025
+title: 📬 Trader Gu's Wave Report – June 2025
 date: 2025-06-01 22:55:00 0100
 categories: [Trader Gu's Wave Report]
 tags: [wave-report, newsletter]

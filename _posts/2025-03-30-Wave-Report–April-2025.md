@@ -1,5 +1,5 @@
 ---
-title: Trader Gu's Wave Report – April 2025
+title: 📬 Trader Gu's Wave Report – April 2025
 date: 2025-03-30 21:20:00 0100
 categories: [Trader Gu's Wave Report]
 tags: [wave-report, newsletter]
