@@ -8,12 +8,12 @@ image:
   lqtip:
 ---
 
-When it comes to growing your money, there’s no escaping the eternal trade-off: **No Risk. No Reward.**  
+In trading and investing, the rules never change: **No Risk. No Reward.**  
 My results this year are a live case study in how three different approaches can play out in practice.
 
 ---
 
-## 1️⃣ Actively Traded Portfolio – **+11.4%**
+## 1️⃣ Actively Traded Portfolio: **+11.4%**
 
 For the past 200 days (~7 months), I’ve deposited **$500** each month into my actively traded account.  
 Today, that account sits **+11.4% above my total contributions**.
@@ -24,7 +24,7 @@ The catch? This return came with **volatility**. My monthly P&L has ranged from 
 
 ---
 
-## 2️⃣ Passively Invested Portfolio – **+4.2%**
+## 2️⃣ Passively Invested Portfolio: **+4.2%**
 
 Alongside active trading, I’ve also been depositing **$500 per month** into a **global index fund**.  
 After the same 200 days, that portfolio is up **+4.2%**.
@@ -36,7 +36,7 @@ For context, globally diversified index funds have averaged about **+7% annually
 
 ---
 
-## 3️⃣ Savings Account – **Safe but Limited**
+## 3️⃣ Savings Account: **+0.7%**
 
 Savings accounts are steady, predictable, and risk-free (within deposit guarantees).  
 But with typical rates currently under 2% per year in Sweden, **inflation quietly erodes your purchasing power**.
@@ -61,14 +61,13 @@ They’re perfect for **emergency funds** or short-term goals—but they can’t
 
 If I keep these monthly contributions going for **10 years**, here’s the math:
 
-- **Active Trading (current pace):** ~$902,880
-- **Passive Investing (current pace):** ~$87,047  
+- **Active Trading (current pace ~42% annualized):** ~$902,880  
+- **Passive Investing (7% annual):** ~$87,047  
 - **Savings Account (2% annual):** ~$66,470  
 
-The gap is striking. At the same contribution rate, active trading *could* more than double passive investing’s outcome—and nearly triple savings.  
-
-> ⚠️ Important: These figures are purely hypothetical. They assume I could maintain my current 7-month performance pace for a full decade—which is extremely unlikely in reality. Active trading returns can vary dramatically year to year, and there will almost certainly be losing periods along the way. This projection is for illustration purposes only.
+> Important: This $902,880 figure is purely hypothetical. It assumes I could sustain my current 7-month performance pace (~42% annualized) for a full decade — which is extremely unlikely in reality. Active trading returns can swing dramatically year to year, and there will almost certainly be losing periods along the way. This projection is for illustration purposes.
 {: .prompt-warning }
+
 
 This is exactly why I started the [25-Year Trading Experiment](https://www.tradergu.com/posts/25YearTradingExperiment/)—to see the compounding effect of active trading vs. passive investing over decades, with all the ups and downs included.
 
@@ -78,7 +77,7 @@ This is exactly why I started the [25-Year Trading Experiment](https://www.trade
 
 ![Portfolio Growth Comparison](/assets/img/2025/August/portfoliocomparisonchart.svg)
 
-*Assumes current 7-month average returns for active trading and passive investing, with monthly $500 deposits. Past performance ≠ future results. Projections are for illustrative purposes only and are not a guarantee of future returns.*
+*Assumes current 7-month average returns for active trading and passive investing, with monthly $500 deposits.*
 
 ---
 
