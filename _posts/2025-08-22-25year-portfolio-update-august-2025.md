@@ -4,7 +4,7 @@ date: 2025-08-22 20:00:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
-  path: /assets/img/2025/August/banner-25year-august-2025.png
+  path: /assets/img/2025/august/banner-25year-august-2025.png
   lqtip:
 ---
 
@@ -20,7 +20,7 @@ Both portfolios are in profit, and the Actively Traded Portfolio has outperforme
 * Actively Traded Portfolio: 🟢 +13.3% 
 * Passively Invested Portfolio: 🟢 5.5%
 
-![25 year trading experiment - Performance to Date ](/assets/img/2025/August/25year-performance-to-date.png)
+![25 year trading experiment - Performance to Date ](/assets/img/2025/august/25year-performance-to-date.png)
 *Performance: Year to Date*
 
 ---

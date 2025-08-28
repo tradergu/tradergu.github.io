@@ -4,7 +4,7 @@ date: 2025-08-10 22:30:00 0100
 categories: [Insights]
 tags: [compounding, investing, passive-investing]
 image:
-  path: /assets/img/2025/August/TG-Wide-6.png
+  path: /assets/img/2025/august/TG-Wide-6.png
   lqtip:
 ---
 
@@ -75,7 +75,7 @@ This is exactly why I started the [25-Year Trading Experiment](https://www.trade
 
 ## 📈 Hypothetical 10-Year Portfolio Growth Projection
 
-![Portfolio Growth Comparison](/assets/img/2025/August/portfoliocomparisonchart.svg)
+![Portfolio Growth Comparison](/assets/img/2025/august/portfoliocomparisonchart.svg)
 
 *Assumes current 7-month average returns for active trading and passive investing, with monthly $500 deposits.*
 
