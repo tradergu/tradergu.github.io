@@ -9,6 +9,7 @@ image:
 ---
 
 It’s been six months since my last update on the Main Trading Account, and it’s finally time for another portfolio review. With summer now behind us and five months left in 2025, I’m more excited than ever about the progress of my trading journey. While I continue to share a lot of content around my [25 Year Trading Experiment](https://www.tradergu.com/25-year-trading-experiment/), the Main Trading Account remains my primary focus when it comes to building long-term net worth.
+
 ---
 
 ## Performance: Year to Date
@@ -21,27 +22,15 @@ Although I’ve added significant deposits to my Main Trading Account during 202
 
 ---
 
-## Performance: Month to Month Overview
-On a month-to-month perspective, the Actively Traded Portfolio has outperformed the Passively Invested Portfolio 5 out of 7 months, or 70% of the time. 
-
-The Actively Traded Portfolio performance has been flat due to a significant drawdown on my new $NOVO trade, whereas the Passively Invested Portfolio has outperformed with a total of 1.6% gain. 
-
-![25 year trading experiment - Month by Month](/assets/img/2025/august/25year-monthly-table.png)
-*Performance: Month by Month, Table*
-
-![25 year trading experiment - Month by Month](/assets/img/2025/august/25year-monthly-chart.png)
-*Performance: Month by Month, Chart*
-
-
 ## Open Positions
 The portfolio currently consists of 5 open positions, with the largest position being $ASML and the highest-risk position being $JD.
 
-- $BABA | 💼 16.7% | ⚠️ 3% risk |  
-- $JD | 💼 11.7% | ⚠️ 5% risk | 
-- $PYPL | 💼 17.6% | ⚠️ 3% risk |  
-- $ASML | 💼 18.6% | ⚠️ 4% risk | 
-- $NOVO | 💼 14.1% | ⚠️ 4% risk | 
-- 💰 Cash | 21.2% | 
+$BABA | 💼 16.7% | ⚠️ 3% risk |  
+$JD | 💼 11.7% | ⚠️ 5% risk | 
+$PYPL | 💼 17.6% | ⚠️ 3% risk |  
+$ASML | 💼 18.6% | ⚠️ 4% risk | 
+$NOVO | 💼 14.1% | ⚠️ 4% risk | 
+💰 Cash | 21.2% | 
 
 ![Position allocation](/assets/img/2025/august/main-trading-account-portfolio.png)
 *Open Positions*
@@ -51,7 +40,7 @@ The total risk of invested capital is currently ⚠️ 19% with a range of risk 
 ![Position allocation](/assets/img/2025/august/main-trading-account-risk.png)
 *Risk per Trade*
 
-> ⚠️ The total risk on portfolio drawdown meaning the maximum portfolio drawdown if all trades are invalidated and exited at their defined stoploss.
+> ⚠️ The total portfolio drawdown represents the maximum loss if all trades are invalidated and exited at their defined stop-loss levels.
 {: .prompt-warning }
 
 ---
@@ -75,12 +64,12 @@ The performance year-on-year of my main trading account has ranged from 11% to 4
 - [x] 2024: 🟢 +40%  
 - [ ] 2025: 🟢 +11%  
 
-Worth mentioning is also that this year's P&L result is also heavily affected by the volatile $USDSEK development which has had a 🔴 16% move to the downside.
-
 ![Main Trading Account- Performance to Date](/assets/img/2025/august/main-trading-account-performance-to-date.png)  
 *Performance to Date*
 
-![Main Trading Account- Performance to Date](/assets/img/2025/august/main-trading-account-performance-to-date.png)  
+Worth mentioning is also that this year's P&L result is also heavily affected by the volatile $USDSEK development which has had a 🔴 16% move to the downside since beginning of 2025.
+
+![Main Trading Account- Performance to Date](/assets/img/2025/august/usdsek-2025-08-31.png)  
 *USDSEK*
 
 ---
