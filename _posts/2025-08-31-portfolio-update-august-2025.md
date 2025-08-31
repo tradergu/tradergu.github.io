@@ -43,6 +43,16 @@ The total risk of invested capital is currently ⚠️ 19% with a range of risk 
 > ⚠️ The total portfolio drawdown represents the maximum loss if all trades are invalidated and exited at their defined stop-loss levels.
 {: .prompt-warning }
 
+### Open Positions: Detailed Overview
+The following table contains the entry, stop loss, position size, and current market prices. 
+
+![Trade](/assets/img/2025/august/main-trading-account-detailed.png)
+*Open Trade: Detailed Overview*
+
+> All trades and portfolio management is shared live on my [X, @trader_gu](https://x.com/trader_gu)
+{: .prompt-info }
+
+
 ---
 
 ## Realized P&L
@@ -53,13 +63,13 @@ Since inception in October 2023, I’ve taken 23 trades, realizing P&L on 19 of 
 
 This equates to a 73% win rate when excluding break-even trades, or 58% including them. I currently have 5 open trades, with the longest running since the end of 2023 for a total of 641 days. My top 5 trades have delivered returns ranging from 33% to 171%.
 
-![Main Trading Account- Realized P&L](/assets/img/2025/august/main-trading-account-realized-pnl.png)  
-*Realized P&L*
+![Main Trading Account- Realized P&L](/assets/img/2025/august/main-trading-account-realized-pnl.png)
+*Realized P&L & Win Rate*
 
 ---
 
 ## Performance to Date
-The performance year-on-year of my main trading account has ranged from 11% to 40%. So far, I've not had a negative year. 
+The performance year-on-year of my Main Trading Account has ranged from 11% to 40%. So far, I've not had a negative year. 
 - [x] 2023: 🟢 +20%  
 - [x] 2024: 🟢 +40%  
 - [ ] 2025: 🟢 +11%  
