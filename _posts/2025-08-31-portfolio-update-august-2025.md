@@ -25,23 +25,25 @@ Although I’ve added significant deposits to my Main Trading Account during 202
 ## Open Positions
 The portfolio currently consists of 5 open positions, with the largest position being $ASML and the highest-risk position being $JD.
 
-$BABA | 💼 16.7% | ⚠️ 3% risk |  
-$JD | 💼 11.7% | ⚠️ 5% risk | 
-$PYPL | 💼 17.6% | ⚠️ 3% risk |  
-$ASML | 💼 18.6% | ⚠️ 4% risk | 
-$NOVO | 💼 14.1% | ⚠️ 4% risk | 
-💰 Cash | 21.2% | 
+📌 Position | 💼 Portfolio Allocation | ⚠️ Risk per Trade
+$BABA | 16.7% | 3%  
+$JD | 11.7% | 5%  
+$PYPL | 17.6% | 3%  
+$ASML | 18.6% | 4%  
+$NOVO | 14.1%  | 4%  
+💰 Cash | 21.2% 
 
 ![Position allocation](/assets/img/2025/august/main-trading-account-portfolio.png)
 *Open Positions*
 
-The total risk of invested capital is currently ⚠️ 19% with a range of risk per trade from 3% to 5%. The total risk on portfolio drawdown is currently ⚠️ 22%.
+### Risk per Trade
+The total risk of invested capital is currently 19% whereas the total risk on portfolio drawdown is ⚠️ 22%. The risk per trade on positions range from 3% to 5%.
 
-![Position allocation](/assets/img/2025/august/main-trading-account-risk.png)
+![Risk per Trade](/assets/img/2025/august/main-trading-account-risk.png)
 *Risk per Trade*
 
 > ⚠️ The total portfolio drawdown represents the maximum loss if all trades are invalidated and exited at their defined stop-loss levels.
-{: .prompt-warning }
+{: .prompt-info }
 
 ### Open Positions: Detailed Overview
 The following table contains the entry, stop loss, position size, and current market prices. 
@@ -74,12 +76,12 @@ The performance year-on-year of my Main Trading Account has ranged from 11% to 4
 - [x] 2024: 🟢 +40%  
 - [ ] 2025: 🟢 +11%  
 
-![Main Trading Account- Performance to Date](/assets/img/2025/august/main-trading-account-performance-to-date.png)  
+![Main Trading Account- Performance to Date](/assets/img/2025/august/main-trading-account-performance-to-date.png)
 *Performance to Date*
 
 Worth mentioning is also that this year's P&L result is also heavily affected by the volatile $USDSEK development which has had a 🔴 16% move to the downside since beginning of 2025.
 
-![Main Trading Account- Performance to Date](/assets/img/2025/august/usdsek-2025-08-31.png)  
+![Main Trading Account- Performance to Date](/assets/img/2025/august/usdsek-2025-08-31.png)
 *USDSEK*
 
 ---
