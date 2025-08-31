@@ -13,9 +13,7 @@ It’s been six months since my last update on the Main Trading Account, and it�
 ---
 
 ## Performance: Year to Date
-Although I’ve added significant deposits to my Main Trading Account during 2025, the portfolio is still up 11% on a P&L basis.
-
-* Main Trading Account: 🟢 +11% 
+Although I’ve added significant deposits to my Main Trading Account during 2025, the portfolio is still up 🟢 +11% on a P&L basis (as of August 31, 2025).
 
 ![Main Trading Account - Year to Date Performance ](/assets/img/2025/august/main-trading-account-performance.png)
 *Performance: Year to Date*
@@ -25,7 +23,7 @@ Although I’ve added significant deposits to my Main Trading Account during 202
 ## Open Positions
 The portfolio currently consists of 5 open positions, with the largest position being $ASML and the highest-risk position being $JD.
 
-📌 Position | 💼 Portfolio Allocation | ⚠️ Risk per Trade
+📌 Ticker | 💼 Portfolio Allocation | ⚠️ Risk per Trade
 $BABA | 16.7% | 3%  
 $JD | 11.7% | 5%  
 $PYPL | 17.6% | 3%  
@@ -37,7 +35,7 @@ $NOVO | 14.1%  | 4%
 *Open Positions*
 
 ### Risk per Trade
-The total risk of invested capital is currently 19% whereas the total risk on portfolio drawdown is ⚠️ 22%. The risk per trade on positions range from 3% to 5%.
+The total risk of invested capital is currently ⚠️ 19% whereas the total risk on portfolio drawdown is ⚠️ 22%. The risk per trade on positions range from 3% to 5%.
 
 ![Risk per Trade](/assets/img/2025/august/main-trading-account-risk.png)
 *Risk per Trade*
