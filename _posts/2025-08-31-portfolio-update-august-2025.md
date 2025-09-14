@@ -56,7 +56,7 @@ The following table contains the entry, stop loss, position size, and current ma
 ---
 
 ## Realized P&L
-Since inception in October 2023, I’ve taken 23 trades, realizing P&L on 19 of them:
+Since inception in October 2023, I’ve taken 24 trades, realizing P&L on 19 of them:
 - 🟢 11 Winners  
 - 🔴 4 Losses  
 - 🟡 4 Break-even (±3%)  
@@ -85,7 +85,7 @@ Worth mentioning is also that this year's P&L result is also heavily affected by
 ---
 
 ## Summary
-The main trading account is in solid profits. While the additional deposits this year have lowered the year-to-date percentage gains, I remain confident in both the performance and the scale of this account going forward. Looking back since inception, it’s striking to see that I’ve taken only 23 trades over nearly three years - a reminder that strong results can be achieved by being selective with where you put your capital to work. That said, I do recognize that I’ve been over-trading in 2025. My focus now is on reducing the number of trades, only taking the highest-conviction setups, and staying disciplined with both my trading strategy and my [overall goals](https://www.tradergu.com/posts/2025-goals/) for the remainder of the year.
+The main trading account is in solid profits. While the additional deposits this year have lowered the year-to-date percentage gains, I remain confident in both the performance and the scale of this account going forward. Looking back since inception, it’s striking to see that I’ve taken only 24 trades over nearly three years - a reminder that strong results can be achieved by being selective with where you put your capital to work. That said, I do recognize that I’ve been over-trading in 2025. My focus now is on reducing the number of trades, only taking the highest-conviction setups, and staying disciplined with both my trading strategy and my [overall goals](https://www.tradergu.com/posts/2025-goals/) for the remainder of the year.
 
 In addition, I’ve been considering switching my account base currency from SEK to USD to avoid currency exchange fluctuations impacting my P&L. If I decide to make the change, it will be implemented at the start of a new year.
 
