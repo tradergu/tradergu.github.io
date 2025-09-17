@@ -10,11 +10,11 @@ order: 2
 In January 2025, I launched an ambitious long-term challenge: to actively trade against a global index benchmark over 25 years. The structure is simple:
 
 Every month, I invest 10,000 SEK (~$1,000), split evenly between:  
-- 🌍 A **passive portfolio** — invested in Storebrand Global All Countries A SEK (tracking the MSCI ACWI Index).  
-- 🌊 An **active portfolio** — where I apply my own high-conviction trading strategies.
+- 🌍 A **passive portfolio** - invested in [Storebrand Global All Countries A SEK](https://storebrandfonder.fondlista.se/details/SE0000671919/2) (tracking the MSCI ACWI Index).  
+- 🌊 An **active portfolio** - where I apply my own High-conviction Trading strategies.
 
 ### The Goal:
-Successfully outperform a global index over a 25-year time period. 
+Successfully outperform a global index over a 25 Year time period. 
 
 ---
 
@@ -26,7 +26,7 @@ I'm documenting this journey through:
 - 🔴 Losses 
 - 🧠 Lessons-learned
 
-Whether you're a part-time trader, long-term investor, or just curious about market performance - this project is designed to inform, inspire, and start conversations around consistency, risk, and trading growth.
+Whether you're a Part-time Trader, Long-term Investor, or just curious about market performance - this project is designed to inform, inspire, and start conversations around consistency, risk, and trading growth.
 
 ---
 
@@ -51,9 +51,9 @@ Whether you're a part-time trader, long-term investor, or just curious about mar
 ---
 
 ## 🎯 Why I Started This
-- [Read the launch post: The 25-Year Trading Experiment (2025–2050)](https://www.tradergu.com/posts/25YearTradingExperiment/)
+- [Read the launch post: The 25 Year Trading Experiment (2025–2050)](https://www.tradergu.com/posts/25YearTradingExperiment/)
 
 ---
 
 {% include embed/youtube.html id='2dh3lpdWr7g' %}
-*25-Year Trading Experiment — Video Introduction*
+*25 Year Trading Experiment - Video Introduction*
