@@ -13,6 +13,9 @@ The semiconductor industry has been on a tear in 2025. After previously posting 
 
 Let’s dive into the charts.
 
+> All trades where shared LIVE on my X - Not Financial Advice
+{: .prompt-info }
+
 ### Long-Term Watchlist 
 
 I had been tracking ASML and added it to my high-timeframe watchlist after price took out a significant monthly liquidity level. From there, I was watching for two possible scenarios to unfold:
@@ -41,8 +44,8 @@ On the lower timeframes, we also had a clear bullish reversal. On the weekly cha
 ### ✅ Trade Entry
 I opened a position on a retracement to the monthly order block with an entry at $740, keeping a stop loss under the newly formed low at $620. I entered with half risk, anticipating we would have a further move to the downside - retesting of the weekly order block.
 
-**Trade Entry**
-📌 Entry: $736,25
+**Trade Entry**  
+📌 Entry: $736,25  
 ⛔️ SL: $578.51  
 💰 Target: $940  
 
@@ -54,12 +57,12 @@ I opened a position on a retracement to the monthly order block with an entry at
 ### ✅ Added to Position
 Two weeks after my first entry, price finally tapped into the support zone I’d been waiting for. I added at $689, which brought my overall average entry up to $713.54.
 
-**Added to Position**
+**Added to Position**  
 📌 Entry: $689.00 
-⛔️ SL: $578.51  
-💰 Target: $940  
+⛔️ SL: $578.51   
+💰 Target: $940    
 
-**Averaged Position**
+**Averaged Position**  
 📌 Entry: $713.54 
 ⛔️ SL: $578.51  
 💰 Target: $940 
@@ -100,8 +103,6 @@ My first entry was a bit rushed - I could have waited for a lower entry around $
 ✅ Added to position  
 ✅ Took full profit at target  
 
-> All trades where shared LIVE on my X - Not Financial Advice
-{: .prompt-info }
 
 ---
 
