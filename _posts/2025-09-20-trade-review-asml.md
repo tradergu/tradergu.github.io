@@ -58,14 +58,14 @@ I opened a position on a retracement to the monthly order block with an entry at
 Two weeks after my first entry, price finally tapped into the support zone I’d been waiting for. I added at $689, which brought my overall average entry up to $713.54.
 
 **Added to Position**  
-📌 Entry: $689.00 
-⛔️ SL: $578.51   
-💰 Target: $940    
+📌 Entry: $689.00  
+⛔️ SL: $578.51  
+💰 Target: $940  
 
 **Averaged Position**  
-📌 Entry: $713.54 
+📌 Entry: $713.54  
 ⛔️ SL: $578.51  
-💰 Target: $940 
+💰 Target: $940  
 
 ![$ASML](/assets/img/2025/september/asml-added-to-position-weekly.png)  
 *$ASML - Added to Position, weekly*
