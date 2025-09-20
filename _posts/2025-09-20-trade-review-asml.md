@@ -13,7 +13,7 @@ The semiconductor industry has been on a tear in 2025. After previously posting 
 
 Let’s dive into the charts.
 
-> All trades where shared LIVE on my X - Not Financial Advice
+> All trades shared LIVE on my X - Not Financial Advice
 {: .prompt-info }
 
 ### Long-Term Watchlist 
