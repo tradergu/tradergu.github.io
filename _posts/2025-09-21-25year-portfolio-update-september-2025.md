@@ -1,11 +1,12 @@
 ---
 title: "💼 Portfolio Update: 25 Year Trading Experiment | September 2025"
-date: 2025-09-21 06:00:00 0100
+date: 2025-09-21 07:43:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
   path: /assets/img/2025/september/banner-25year-september-2025.png
   lqtip:
+published: true
 ---
 
 Time flies, and it's already 8 months into my 25 Year Trading Experiment. The past month has delivered outstanding results for my Actively Traded portfolio, and it's time for a monthly breakdown. 
