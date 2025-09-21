@@ -1,6 +1,6 @@
 ---
 title: "💼 Portfolio Update: 25 Year Trading Experiment | September 2025"
-date: 2025-09-21 07:43:00 0100
+date: 2025-09-21 07:40:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
