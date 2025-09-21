@@ -57,13 +57,13 @@ The following table contains the entry, stop loss, position size, and current ma
 
 ---
 
-## Realized P&L
+## Realized P&L & Win Rate
 Since inception, I have realized 13 trades:
 - 🟢 7 Winners
 - 🔴 3 Losses
 - 🟡 3 Break-even (+- 3%) 
 
-The top three trades percentage-wise have been $BABA, $TSLA $OSCR, each delivering between 31% and 40% from entry to exit. Losses have been modest, with a maximum realized loss of just 7.2%. Trade durations have ranged from 3 to 148 days.
+This translates to a 70% win rate when excluding break-even trades, or 58% including them. The top three trades percentage-wise have been $BABA, [$TSLA](https://www.tradergu.com/posts/Trade-review-TSLA/) $OSCR, each delivering between 31% and 40% from entry to exit. Losses have been modest, with a maximum realized loss of just 7.2%.
 
 ![25 year trading experiment - Realized P&L](/assets/img/2025/september/25year-realized-pnl.png)  
 *Realized P&L*
