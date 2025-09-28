@@ -8,101 +8,76 @@ image:
   lqtip:
 ---
 
-Most trading education glorifies day trading, scalping, and the “quit your job to trade full-time” dream. That approach never resonated with me.  
+Most trading education glorifies day trading, scalping, and the "quit your job to trade full-time" dream. That approach never resonated with me.  
 
-👋 I’m Gustav - engineer, entrepreneur, and part-time equity swing trader. My focus is on **high-timeframe swing trading** - taking trades that develop over weeks or months, instead of staring at screens all day.  
+👋 I’m Gustav - engineer, entrepreneur, and part-time equity swing trader. My focus is on **high-timeframe swing trading** - trades that develop over weeks or months, not hours.  
 
-This is how I’ve built a trading process that fits into a busy lifestyle, without sacrificing conviction or performance.  
+This post is my way of showing how I make trading work alongside a busy life, and what you can learn from my strategy.  
 
 ---
 
 ## Why Swing Trading Works for Me  
 
-I don’t spend time on the 15-minute or 1-hour charts. Even the 4-hour chart rarely matters to me.  
+I don’t look at the 15m or 1h charts. My edge is built on the **weekly and monthly timeframes**, with the occasional daily chart for aggressive entries when price is already in my high-conviction zone.  
 
-My main analysis is on the **weekly and monthly timeframes**, with the occasional daily chart for aggressive entries when price is already in my high-conviction area of interest.  
+✅ Less screen time - prep on weekends or evenings  
+✅ Clearer conviction - weekly/monthly structure filters noise  
+✅ Quality over quantity - only high-conviction setups  
 
-✅ Less screen time - Prep in the mornings, evenings, or weekends.  
-✅ Clearer conviction - HTF structures filter out noise.  
-✅ Fewer, higher-quality trades – Patience over frequency.  
-
-The **weekly candle close and new weekly open are critical**:  
-
-- **Friday close** → confirms or invalidates structure.  
-- **Monday open** → sets the tone for the coming week.  
-
-This rhythm gives me time on weekends to reset levels and prepare.  
-
-Much of this structure comes from my **Order Block methodology**, which I outlined here: [🧰 Order Blocks for High-conviction Trading](https://www.tradergu.com/posts/Order-blocks-trading/)
+The **Friday close** and **Monday open** are key. They set the framework for the week and give me time to prepare calmly.  
 
 ---
 
-## Tools That Keep Me Efficient  
+## My Trading Strategy in Short  
 
-Even though I don’t sit in front of charts all day, I stay connected with the right tools:  
+I trade using a **high-timeframe order block strategy**:  
 
-- **Apple Watch Alerts ⌚️** - Triggered at my key levels.  
-- **Phone Execution 📱** - I place nearly all trades directly from my phone.  
-- **Google Sheets Dashboard** - My [trading dashboard](https://dashboard.tradergu.com/) keeps track of positions, risk, and performance.  
-- **Pre-Planned Orders** - Limit entries + stops, so execution is automatic.  
+1. **Find Areas of Interest (AOIs)**  
+   - Weekly or monthly order blocks where institutions likely placed large orders.  
+2. **Wait for Structure Confirmation**  
+   - Bullish/bearish market structure shift around those levels.  
+3. **Plan Entry**  
+   - Aggressive entry if price taps AOI with confluence, or wait for confirmation on the daily chart.  
+4. **Risk Management**  
+   - SL always below the invalidation level of the order block.  
+   - Position sized for max 1-2R risk.  
 
-This workflow keeps me disciplined — no micromanaging trades.  
+This way, every trade is either high conviction or not taken at all. I wrote more about this here: [🧰 Order Blocks for High-conviction Trading](https://www.tradergu.com/posts/Order-blocks-trading/).  
+
+---
+
+## Tools & Workflow  
+
+- **Apple Watch Alerts ⌚️** - notify me when levels trigger  
+- **Phone Execution 📱** - nearly all my trades are placed from my phone  
+- **Trading Dashboard** - track risk and positions in one view  
+- **Pre-Planned Orders** - limit entries & stops to remove stress  
+
+This workflow keeps me consistent without sitting in front of screens.  
 
 ---
 
 ## A Typical Trading Week  
 
-Here’s what my routine looks like:  
+- **Weekends** - full analysis, mark AOIs, prep scenarios  
+- **Friday** - review weekly close  
+- **Monday** - confirm weekly direction at open  
+- **Daily** - quick pre-market check  
+- **During workday** - rely on alerts, execute from phone if needed  
 
-- **Weekends** - Deep analysis, mark AOIs, prep scenarios.  
-- **Friday** - Weekly close is the most important candle.  
-- **Monday** - Weekly open confirms or shifts bias.  
-- **Daily pre-market check** - Quick check-in to see futures/pre-market direction.  
-- **Market open trades** - If I want in, I don’t get greedy on entry. Better to be in from my phone than miss the move.  
-- **During workday** - I rely on alerts. Execution is fast and mobile.  
-
-A clear example? My [📊 ASML trade review](https://www.tradergu.com/posts/trade-review-asml/)  
-I spotted the setup on monthly/weekly, planned levels, and executed entirely from my phone. It became my biggest realized trade of 2025.  
+Example: My [📊 ASML trade review](https://www.tradergu.com/posts/trade-review-asml/) was built this way. I identified a monthly order block, confirmed the weekly structure, and executed directly from my phone. It turned into my biggest realized trade of 2025.  
 
 ---
 
-## The Psychology of Part-Time Trading  
+## Mindset  
 
-One of the hardest parts of trading isn’t strategy — it’s mindset.  
-
-I’ve written about this in [Trapped by Perfection](/posts/Trapped-by-Perfection/), where I explored how perfectionism often creeps in after good trades.  
+The hardest part isn’t the strategy - it’s psychology.  
 
 > I’m not here to be right.  
 > I’m here to be profitable.  
 {: .prompt-tip }  
 
-That mindset keeps me from obsessing over intraday noise or missed entries.  
-
-It also fuels my [📽️ 25 Year Trading Experiment](https://www.tradergu.com/posts/Video-25-Year-Trading-Experiment/) :contentReference[oaicite:2]{index=2} — a challenge to prove that consistent execution over decades can outperform the market.  
-
----
-
-## Sharing My Journey on YouTube  
-
-Besides this blog, I also share **chart analysis videos** on my [YouTube channel](https://www.youtube.com/channel/UCV_d_z-SyYKSF6dR6atXvlw).  
-
-Most recently, I broke down my trade thesis on **$JD**, walking through why I entered, my targets, and the market structure I was tracking. These videos let me expand on the exact setups I’m monitoring and how I manage them as a part-time trader.  
-
-{: .prompt-info }  
-If you prefer visuals over text, make sure to subscribe — I post regular updates with breakdowns of my watchlist and high-conviction trades.  
-
----
-
-## A Realistic Path for Busy Traders  
-
-If you’re a busy professional, you don’t need to quit your job to succeed in trading.  
-
-You need:  
-- A **structured, repeatable process**  
-- Patience for **high-conviction setups**  
-- Tools that keep you efficient  
-
-For me, that’s weekly & monthly swing trading. I may only take a few trades each quarter, but they’re deliberate, planned, and aligned with my system.  
+That reminder keeps me focused on execution, not perfection.  
 
 ---
 
@@ -110,10 +85,14 @@ For me, that’s weekly & monthly swing trading. I may only take a few trades ea
 
 Trading part-time while managing a career is absolutely possible.  
 
-You don’t need to chase every move. You don’t need to stare at screens all day.  
+My recipe is simple:  
+- Weekly/monthly structure for clarity  
+- Order block AOIs for setups  
+- Alerts + mobile execution for efficiency  
+- Patience and risk management for consistency  
 
-What you need is a **system that fits your life, not the other way around**.  
+You don’t need to chase every move. You don’t need to quit your job.  
 
-That’s what I’m building with Trader Gu 🌊 — the **Part-Time Trader’s Toolbox**: strategies, tools, and insights for high-conviction trading.  
+What you need is a **system that fits your life**. That’s what I’ve built - and what I share here to inspire you to build your own methodology.  
 
 {% include comments.html %}
