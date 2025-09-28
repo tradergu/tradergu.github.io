@@ -10,7 +10,7 @@ image:
 
 Most trading education glorifies day trading, scalping, and the "quit your job to trade full-time" dream. That approach never resonated with me.  
 
-👋 I’m Gustav - engineer, entrepreneur, and part-time equity swing trader. My focus is on **high-timeframe swing trading** - trades that develop over weeks or months, not hours.  
+👋 I’m Gustav - engineer, entrepreneur, and Part-time Equity Swing Trader. My focus is on **high-timeframe swing trading** - trades that develop over weeks or months, not hours.  
 
 This post is my way of showing how I make trading work alongside a busy life, and what you can learn from my strategy.  
 
@@ -94,5 +94,12 @@ My recipe is simple:
 You don’t need to chase every move. You don’t need to quit your job.  
 
 What you need is a **system that fits your life**. That’s what I’ve built - and what I share here to inspire you to build your own methodology.  
+
+---
+
+## 💬 What about you?  
+
+Are you trading part-time while balancing a career or studies?  
+Drop a comment below - I’d love to hear how you structure your trading around life.  
 
 {% include comments.html %}
