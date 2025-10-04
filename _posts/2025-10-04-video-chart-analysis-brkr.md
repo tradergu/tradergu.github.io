@@ -6,6 +6,7 @@ tags: [$brkr, youtube, video-chart-analysis]
 image:
   path: /assets/img/2025/october/banner-chart-analysis-brkr.png
   lqtip:
+published: true
 ---
 
 Bruker Corporation confirmed a bullish reversal pattern on the weekly time frame. I'm preparing to long, and this is my technical analysis of $BRKR.
