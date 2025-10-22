@@ -62,7 +62,7 @@ Exciting times!
 ![$TSLA Weekly chart](/assets/img/2025/march/TSLA_2025-03-29_09-41-11.png)
 *$TSLA - Weekly chart*
 
-![$TSLA daily chart](assets/img/2025/march/TSLA_2025-03-29_09-42-31.png)
+![$TSLA daily chart](/assets/img/2025/march/TSLA_2025-03-29_09-42-31.png)
 *$TSLA - Daily chart*
 
 ## 🧲 Approaching my Area of Interest (AOI)
