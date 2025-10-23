@@ -20,7 +20,7 @@ The total portfolio value is now above $10,000. Both portfolios are in profit, a
 * Actively Traded Portfolio: 🟢 +24.6%  
 * Passively Invested Portfolio: 🟢 +7.6%
 
-![25 year trading experiment - Performance to Date](/assets/img/2025/october/25year-performance-to-date.png)  
+![25 year trading experiment - Performance to Date](/assets/img/2025/october/25year-performance-to-date.png)
 *Performance: Year to Date*
 
 ---
@@ -30,10 +30,10 @@ On a month-to-month basis, the Actively Traded Portfolio has outperformed the Pa
 
 For October, the Actively Traded Account was flat, while the MSCI ACWI Index gained 2.3%.
 
-![25 year trading experiment - Month by Month](/assets/img/2025/october/25year-monthly-table.png)  
+![25 year trading experiment - Month by Month](/assets/img/2025/october/25year-monthly-table.png)
 *Performance: Month by Month, Table*
 
-![25 year trading experiment - Month by Month](/assets/img/2025/october/25year-monthly-chart.png)  
+![25 year trading experiment - Month by Month](/assets/img/2025/october/25year-monthly-chart.png)
 *Performance: Month by Month, Chart*
 
 ---
@@ -41,18 +41,18 @@ For October, the Actively Traded Account was flat, while the MSCI ACWI Index gai
 ## Open Positions
 The portfolio currently consists of four open positions: $PYPL, $NOVO, $JD, and the latest addition, $BRKR.
 
-![Position allocation](/assets/img/2025/october/25year-portfolio.png)  
+![Position allocation](/assets/img/2025/october/25year-portfolio.png)
 *Open Positions*
 
 The total invested capital at risk is currently ⚠️ 17%, with the highest per-trade risk being 8% on $JD. Most recently, I’ve moved the stop loss for my $JD trade, resulting in 0% risk on the position.
 
-![Position allocation](/assets/img/2025/october/25year-risk.png)  
+![Position allocation](/assets/img/2025/october/25year-risk.png)
 *Risk per Trade*
 
 ### Open Positions: Detailed Overview
 The following table contains the entry, stop loss, position size, and current market prices.
 
-![Trade](/assets/img/2025/october/25year-open-trades-details.png)  
+![Trade](/assets/img/2025/october/25year-open-trades-details.png)
 *Open Trades: Details*
 
 ---
@@ -63,11 +63,11 @@ Since inception, I have realized 13 trades:
 - 🔴 3 Losses  
 - 🟡 3 Break-even (+/- 3%)
 
-This translates to a 70% win rate when excluding break-even trades, or 58% including them. The top three trades, percentage-wise, have been $BABA, [$TSLA](https://www.tradergu.com/posts/Trade-review-TSLA/), and $OSCR, each delivering between 31% and 40% from entry to exit.  
+This translates to a 70% win rate when excluding break-even trades, or 58% including them. The top three trades, percentage-wise, have been $BABA, [$TSLA](https://www.tradergu.com/posts/Trade-review-TSLA/), and [$OSCR](https://youtu.be/Q8yiuiuFkLQ), each delivering between 31% and 40% from entry to exit.  
 
-Losses have been modest, with a maximum realized loss of just 7.2%. These results will change once I start realizing profit and loss for the open positions—especially when $NOVO is invalidated and recorded as a loss, which I haven’t closed yet. The win rate would most likely be slightly lower.
+Losses have been modest, with a maximum realized loss of just 7.2%. These results will change once I start realizing profit and loss for the open positions-especially when $NOVO is invalidated and recorded as a loss, which I haven’t closed yet. The win rate would most likely be slightly lower.
 
-![25 year trading experiment - Realized P&L](/assets/img/2025/october/25year-realized-pnl.png)  
+![25 year trading experiment - Realized P&L](/assets/img/2025/october/25year-realized-pnl.png)
 *Realized P&L*
 
 ---
@@ -85,7 +85,7 @@ For a full overview of the experiment’s purpose and structure, check out my [F
 ---
 
 ## Summary
-October has been quite volatile, with big moves in $PYPL, $NOVO, and $JD. My latest addition, $BRKR, and the most notable changes to the portfolio have been increasing risk in the $PYPL position—betting on more upside—and opening a new position in Bruker Corp.  
+October has been quite volatile, with big moves in $PYPL, $NOVO, and $JD. My latest addition, $BRKR, and the most notable changes to the portfolio have been increasing risk in the $PYPL position-betting on more upside—and opening a new position in Bruker Corp.  
 
 I also [posted a $BRKR chart analysis](https://youtu.be/ArGwsYaAGZM) and walkthrough on my YouTube channel.  
 
