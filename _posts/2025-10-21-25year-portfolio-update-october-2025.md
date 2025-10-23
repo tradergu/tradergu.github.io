@@ -65,7 +65,7 @@ Since inception, I have realized 13 trades:
 
 This translates to a 70% win rate when excluding break-even trades, or 58% including them. The top three trades, percentage-wise, have been $BABA, [$TSLA](https://www.tradergu.com/posts/Trade-review-TSLA/), and [$OSCR](https://youtu.be/Q8yiuiuFkLQ), each delivering between 31% and 40% from entry to exit.  
 
-Losses have been modest, with a maximum realized loss of just 7.2%. These results will change once I start realizing profit and loss for the open positions-especially when $NOVO is invalidated and recorded as a loss, which I haven’t closed yet. The win rate would most likely be slightly lower.
+Losses have been modest, with a maximum realized loss of just 7.2%. These results will change once I start realizing profit and loss for the open positions, especially when $NOVO is invalidated but h I haven’t closed yet. The win rate would most likely be slightly lower.
 
 ![25 year trading experiment - Realized P&L](/assets/img/2025/october/25year-realized-pnl.png)
 *Realized P&L*
