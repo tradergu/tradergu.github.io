@@ -65,11 +65,11 @@ If I keep these monthly contributions going for **10 years**, here’s the math:
 - **Passive Investing (7% annual):** ~$87,047  
 - **Savings Account (2% annual):** ~$66,470  
 
-> Important: This $902,880 figure is purely hypothetical. It assumes I could sustain my current 7-month performance pace (~42% annualized) for a full decade — which is extremely unlikely in reality. Active trading returns can swing dramatically year to year, and there will almost certainly be losing periods along the way. This projection is for illustration purposes.
+> Important: This $902,880 figure is purely hypothetical. It assumes I could sustain my current 7-month performance pace (~42% annualized) for a full decade - which is extremely unlikely in reality. Active trading returns can swing dramatically year to year, and there will almost certainly be losing periods along the way. This projection is for illustration purposes only.
 {: .prompt-warning }
 
 
-This is exactly why I started the [25-Year Trading Experiment](https://www.tradergu.com/posts/25YearTradingExperiment/)—to see the compounding effect of active trading vs. passive investing over decades, with all the ups and downs included.
+This is exactly why I started the [25-Year Trading Experiment](https://www.tradergu.com/posts/25YearTradingExperiment/)-to see the compounding effect of active trading vs. passive investing over decades, with all the ups and downs included.
 
 ---
 
@@ -91,7 +91,7 @@ There’s no one-size-fits-all. It depends on your **goals**, **time horizon**, 
 
 The goal is finding a mix that keeps you both **financially on track** and **emotionally comfortable**.
 
-💬 How do you balance your own portfolio? Drop your approach in the comments—I’d love to hear your take.
+💬 How do you balance your own portfolio? Drop your approach in the comments - I’d love to hear your take.
 
 <script src="https://giscus.app/client.js"
         data-repo="tradergu/tradergu.github.io-comments"
