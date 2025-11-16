@@ -26,7 +26,7 @@ The downward pressure resulted in a 69 percent move to the downside, sweeping th
 The weekly chart appeared even more promising. There was a proper liquidity sweep of the previous week's low followed by a confirmed weekly bullish reversal pattern that left behind a newly formed bullish order block at 34 dollars. This was my area of interest to enter a position, with a clear structure and invalidation level at 28.53 dollars.
 
 ![$BRKR](/assets/img/2025/november/brkr-area-of-interest-weekly.png)  
-*$BRKR - Area of Interest, weekly chart*
+*$BRKR - Area of Interest, weekly chart*  
 
 ---
 
