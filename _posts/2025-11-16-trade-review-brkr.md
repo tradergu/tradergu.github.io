@@ -31,11 +31,11 @@ The weekly chart appeared even more promising. There was a proper liquidity swee
 ---
 
 ### ✅ Trade Entry
-Without waiting for my planned entry at the 34 dollar support zone, I opened a position with two thirds of my risk allocation on a small retracement to 36.19 dollars. Although I anticipated a deeper retracement, the higher time frame alignment made me not want to risk missing the position entirely.
+Without waiting for my planned entry at the 34 dollar support zone, I opened a position with two thirds of my risk allocation on a small retracement to 36.10 dollars. Although I anticipated a deeper retracement, the higher time frame alignment made me not want to risk missing the position entirely.
 
 
 **Trade Entry**  
-📌 Entry: $36.19  
+📌 Entry: $36.10  
 ⛔️ SL: $28.53    
 💰 Target: $43.27  
 
@@ -62,7 +62,7 @@ Already two days after my first entry, we had reached my target zone, and I adde
 ---
 
 ### 💰 Trade Targets
-Although I have had a higher time frame target of $54 based on the monthly time frame, we still had a couple of weeks to confirm if that confirmed such a high conviction trigger. I had my eyes on the weekly expansion and Fibonacci levels 0.618 and 1, targeting $43.18 and $44.50. 
+Although I have had a higher time frame target of $54 based on the monthly time frame, we still had a couple of weeks to confirm a monthly bullish reversal trigger. I had my eyes on the weekly expansion and Fibonacci levels 0.618 and 1, targeting $43.18 and $46.75. 
 
 Also considering staying in this position until possibly seeing $54, but as we are currently in an extremely overvalued market in general, I decided to follow my [wife's reminder](https://x.com/trader_gu/status/1967910365750272126) not to be greedy planning an exit at $43.18. 
 
@@ -86,7 +86,7 @@ Looking back, although I had a significant risk of 8 percent of invested capital
 
 ✅ Followed my entry trigger  
 ✅ Added to position  
-✅ Took full profit at target
+✅ Took full profit at target  
 😵 Possibly took profit too early  
 
 ---
