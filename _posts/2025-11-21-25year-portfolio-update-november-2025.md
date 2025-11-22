@@ -4,7 +4,7 @@ date: 2025-11-21 23:30:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
-  path: /assets/img/2025/november/banner-25year-october-2025.png
+  path: /assets/img/2025/november/banner-25year-november-2025.png
 published: true
 ---
 
