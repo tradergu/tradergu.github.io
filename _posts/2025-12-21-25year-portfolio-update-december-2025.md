@@ -1,27 +1,26 @@
 ---
-title: "💼 Portfolio Update: 25 Year Trading Experiment | November 2025"
-date: 2025-12-21 23:30:00 0100
+title: "💼 Portfolio Update: 25 Year Trading Experiment | December 2025"
+date: 2025-11-21 23:30:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
-  path: /assets/img/2025/november/banner-25year-november-2025.png
+  path: /assets/img/2025/december/banner-25year-december-2025.png
 published: true
 ---
 
-
-Markets are red, and after six months of positive P&L outperforming the global index, November turned red. Let's break down the performance of the past 300 days and how November price action corrected my portfolios. 
+Finally, December has arrived, and it has been a very quiet month with not much volatility. Let's review the performance and see where we stand before closing the year within the next week and half.
 
 All trades are always shared live on [X.com/tradergu](https://x.com/trader_gu), and the [public trading dashboard](https://dashboard.tradergu.com/) is updated with the latest trade details and up-to-date portfolio allocations.
 
 ---
 
 ## Performance: Year to Date
-The total portfolio value is now above $11,600. Both portfolios are in profit, and the Actively Traded Portfolio has outperformed the Passively Invested Portfolio by 11 percentage points year-to-date 💪.
+The total portfolio value is now worth $13,087. Both portfolios are in profit, and the Actively Traded Portfolio has outperformed the Passively Invested Portfolio by 8.8 percentage points year-to-date 💪.
 
-* Actively Traded Portfolio: 🟢 +16.3%  
+* Actively Traded Portfolio: 🟢 +16.7%  
 * Passively Invested Portfolio: 🟢 +5.3%
 
-![25 year trading experiment - Performance to Date](/assets/img/2025/november/25year-performance-to-date.png)
+![25 year trading experiment - Performance to Date](/assets/img/2025/december/25year-performance-to-date.png)
 *Performance: Year to Date*
 
 ---
@@ -29,12 +28,12 @@ The total portfolio value is now above $11,600. Both portfolios are in profit, a
 ## Performance: Month to Month Overview
 On a month-to-month basis, the Actively Traded Portfolio has outperformed the Passively Invested Portfolio 50% of the time with a higher volatility in both directions. Currently the profits are 3x higher for the Actively Traded Account.
 
-For November, the Actively Traded Account had a significant drawback with unrealized loss of -4.8%, while the Passively Invested Portfolio corrected -1,5%.
+For december, the Actively Traded Account had a significant drawback with unrealized loss of -4.8%, while the Passively Invested Portfolio corrected -1,5%.
 
-![25 year trading experiment - Month by Month](/assets/img/2025/november/25year-monthly-table.png)
+![25 year trading experiment - Month by Month](/assets/img/2025/december/25year-monthly-table.png)
 *Performance: Month by Month, Table*
 
-![25 year trading experiment - Month by Month](/assets/img/2025/november/25year-monthly-chart.png)
+![25 year trading experiment - Month by Month](/assets/img/2025/december/25year-monthly-chart.png)
 *Performance: Month by Month, Chart*
 
 ---
@@ -42,7 +41,7 @@ For November, the Actively Traded Account had a significant drawback with unreal
 ## Open Positions
 The portfolio currently consists of four open positions: $PYPL, $NOVO, $JD, and the latest addition, $TGT.
 
-![Position allocation](/assets/img/2025/november/25year-portfolio.png)
+![Position allocation](/assets/img/2025/december/25year-portfolio.png)
 *Open Positions*
 
 The total invested capital at risk is currently ⚠️ 15%, with the highest per-trade risk being 8% on $PYPL.
@@ -53,7 +52,7 @@ The total invested capital at risk is currently ⚠️ 15%, with the highest per
 ### Open Positions: Detailed Overview
 The following table contains the entry, stop loss, position size, and current market prices.
 
-![Trade](/assets/img/2025/november/25year-open-trades-details.png)
+![Trade](/assets/img/2025/december/25year-open-trades-details.png)
 *Open Trades: Details*
 
 ---
@@ -68,7 +67,7 @@ This translates to a 73% win rate when excluding break-even trades, or 62% inclu
 
 Realized losses have so far been modest, with a maximum realized loss of just 7.2%. These results will change once I start realizing profit and loss for the open invalidated positions such as a massive drawback in a $NVO trade.
 
-![25 year trading experiment - Realized P&L](/assets/img/2025/november/25year-realized-pnl.png)
+![25 year trading experiment - Realized P&L](/assets/img/2025/december/25year-realized-pnl.png)
 *Realized P&L*
 
 ---
