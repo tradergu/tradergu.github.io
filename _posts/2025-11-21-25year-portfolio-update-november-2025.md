@@ -1,13 +1,12 @@
 ---
 title: "💼 Portfolio Update: 25 Year Trading Experiment | November 2025"
-date: 2025-12-21 23:30:00 0100
+date: 2025-11-21 23:30:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
   path: /assets/img/2025/november/banner-25year-november-2025.png
 published: true
 ---
-
 
 Markets are red, and after six months of positive P&L outperforming the global index, November turned red. Let's break down the performance of the past 300 days and how November price action corrected my portfolios. 
 

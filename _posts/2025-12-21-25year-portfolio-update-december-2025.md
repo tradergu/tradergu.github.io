@@ -1,6 +1,6 @@
 ---
 title: "💼 Portfolio Update: 25 Year Trading Experiment | December 2025"
-date: 2025-11-21 23:30:00 0100
+date: 2025-12-21 23:30:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
@@ -15,7 +15,7 @@ All trades are always shared live on [X.com/tradergu](https://x.com/trader_gu), 
 ---
 
 ## Performance: Year to Date
-The total portfolio value is now worth $13,087. Both portfolios are in profit, and the Actively Traded Portfolio has outperformed the Passively Invested Portfolio by 8.8 percentage points year-to-date 💪.
+The total portfolio value is now worth $13,000. Both portfolios are in profit, and the Actively Traded Portfolio has outperformed the Passively Invested Portfolio by 8.8 percentage points year-to-date 💪.
 
 * Actively Traded Portfolio: 🟢 +16.7%  
 * Passively Invested Portfolio: 🟢 +5.3%
@@ -26,9 +26,7 @@ The total portfolio value is now worth $13,087. Both portfolios are in profit, a
 ---
 
 ## Performance: Month to Month Overview
-On a month-to-month basis, the Actively Traded Portfolio has outperformed the Passively Invested Portfolio 50% of the time with a higher volatility in both directions. Currently the profits are 3x higher for the Actively Traded Account.
-
-For december, the Actively Traded Account had a significant drawback with unrealized loss of -4.8%, while the Passively Invested Portfolio corrected -1,5%.
+On a month-to-month basis, the past month has been slow and ends up close to being flat on both accounts.
 
 ![25 year trading experiment - Month by Month](/assets/img/2025/december/25year-monthly-table.png)
 *Performance: Month by Month, Table*
@@ -39,7 +37,7 @@ For december, the Actively Traded Account had a significant drawback with unreal
 ---
 
 ## Open Positions
-The portfolio currently consists of four open positions: $PYPL, $NOVO, $JD, and the latest addition, $TGT.
+The portfolio currently consists of five open trades: $PYPL, $NOVO, $JD, $TGT and another recently opened $NOVO position.
 
 ![Position allocation](/assets/img/2025/december/25year-portfolio.png)
 *Open Positions*
@@ -58,7 +56,7 @@ The following table contains the entry, stop loss, position size, and current ma
 ---
 
 ## Realized P&L & Win Rate
-Since inception, I have realized 13 trades:
+Since inception, I have realized 14 trades:
 - 🟢 8 Winners  
 - 🔴 3 Losses  
 - 🟡 3 Break-even (+/- 3%)
@@ -85,15 +83,14 @@ For a full overview of the experiment’s purpose and structure, check out my [F
 ---
 
 ## Summary
-A volatile month to say the least. Realizing good profits in $BRKR trade, 22% gain on position for a high conviction trade which might have been closed too soon. Time will tell and I walked through the trade in a recent [in-depth trade review](https://www.tradergu.com/posts/trade-review-brkr/).
+December price action so far has been quite slow with not much volatility, and I am not realized any trade in the past month except opened a new trade in $NVO. I've yet had the chance to realize the loss in the previous trade, but with the current price action, I believe I will be able to close it close to my entry point. Although that might take some time, so for now, that loss is holding up my cash position. But as I feel confident I will be able to realize a slightly lower loss, I'm happy to carry it for the next coming months. I might have seen it a little bit different if this was a trading account with no monthly deposits. But since I'm having additional cash deposited on a monthly basis, it makes it easier to take a bit of a more risk approach to realizing losses in the portfolio. 
 
-However, my current high-conviction trades are showing a bearish market structure reversals on the weekly time frame and if that propagates to the monthly - realized losses will increase sharply coming months as $NOVO, $PYPL and $JD are currently putting pressure on my portfolio.
+On a training mentality basis, I feel strong moving into the end of the year, and I'm happy that I've almost continued this experiment for almost one year. It will be very interesting to see where we close the end of the year in the next week and a half. 
 
-Cash position is strong, 30% with new monthly deposits on it's way. Looking forward I feel confident but humbled and try to always rememer the long-term goal of this experiment.
 
 ---
 
-How are you tracking your trading performance?
+Are you satisfied with your performance past month? 
 
 💬 Drop a comment below, share your thoughts on my [YouTube channel](https://youtu.be/2dh3lpdWr7g), or connect with me on [X](https://x.com/trader_gu) - I’m always interested in connecting with like-minded people.
 
