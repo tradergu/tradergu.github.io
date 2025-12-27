@@ -46,7 +46,7 @@ The portfolio currently consists of four open positions: $PYPL, $NOVO, $JD, and 
 
 The total invested capital at risk is currently ⚠️ 15%, with the highest per-trade risk being 8% on $PYPL.
 
-![Position allocation](/assets/img/2025/october/25year-risk.png)
+![Position allocation](/assets/img/2025/november/25year-risk.png)
 *Risk per Trade*
 
 ### Open Positions: Detailed Overview

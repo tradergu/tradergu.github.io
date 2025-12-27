@@ -44,7 +44,7 @@ The portfolio currently consists of five open trades: $PYPL, $NOVO, $JD, $TGT an
 
 The total invested capital at risk is currently ⚠️ 15%, with the highest per-trade risk being 8% on $PYPL.
 
-![Position allocation](/assets/img/2025/october/25year-risk.png)
+![Position allocation](/assets/img/2025/december/25year-risk.png)
 *Risk per Trade*
 
 ### Open Positions: Detailed Overview
@@ -85,7 +85,7 @@ For a full overview of the experiment’s purpose and structure, check out my [F
 ## Summary
 December price action so far has been quite slow with not much volatility, and I am not realized any trade in the past month except opened a new trade in $NVO. I've yet had the chance to realize the loss in the previous trade, but with the current price action, I believe I will be able to close it close to my entry point. Although that might take some time, so for now, that loss is holding up my cash position. But as I feel confident I will be able to realize a slightly lower loss, I'm happy to carry it for the next coming months. I might have seen it a little bit different if this was a trading account with no monthly deposits. But since I'm having additional cash deposited on a monthly basis, it makes it easier to take a bit of a more risk approach to realizing losses in the portfolio. 
 
-On a training mentality basis, I feel strong moving into the end of the year, and I'm happy that I've almost continued this experiment for almost one year. It will be very interesting to see where we close the end of the year in the next week and a half. 
+On a trading mentality basis, I feel strong moving into the end of the year, and I'm happy that I've almost continued this experiment for almost one year. It will be very interesting to see where we close the end of the year in the next week and a half. 
 
 
 ---
