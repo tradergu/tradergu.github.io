@@ -47,17 +47,19 @@ It is a **structure-based swing** designed to give price room to work, with risk
 
 The most straightforward way to express this idea is by buying shares.
 
+For comparison purposes, the position size is adjusted so that the **dollar risk is approximately $1,000**, keeping the same entry and stop-loss levels.
+
 **Trade structure**
-- Buy ~93 shares
-- Capital deployed: ~$8,800
+- Buy ~62 shares
+- Capital deployed: ~$6,200
 
 **Risk**
 - Defined by the stop-loss
-- Approximate risk: ~$1,500
+- Approximate risk: ~$1,000 (position sized for comparison)
 
 **Reward**
 - If price reaches 125
-- Approximate profit: ~$2,370
+- Approximate profit: ~$1,580
 - Risk-to-reward: ~1.6R
 
 **Why equity works well**
@@ -67,7 +69,7 @@ The most straightforward way to express this idea is by buying shares.
 - Simple to manage and easy to understand
 
 **Trade-off**
-- Large capital commitment
+- Large capital commitment relative to defined risk
 - Open-ended gap risk
 - Harder to scale across multiple positions
 
@@ -107,7 +109,7 @@ This approach fits naturally with the trade plan, as the exit level is already d
 - Risk-to-reward: ~1.4R
 
 **What this structure does**
-- Replaces ~$8,800 of equity exposure with ~$1,200 of defined risk
+- Replaces ~$6,200 of equity exposure with ~$1,200 of defined risk
 - Preserves the same directional thesis
 - Significantly reduces time pressure compared to shorter-dated options
 - Eliminates tail risk beyond the premium paid
@@ -140,7 +142,7 @@ Although the risk remains defined, approximately ~$1,500, the uncertainty shifts
 
 | Feature | Equity | 12M Bull Call Spread |
 |------|------|----------------------|
-| Capital used | High | Low |
+| Capital used | Moderate | Low |
 | Risk | Stop-based | Fully defined |
 | Time constraint | None | Explicit |
 | Time decay | None | Minimal |
@@ -157,7 +159,7 @@ Although the risk remains defined, approximately ~$1,500, the uncertainty shifts
 Equity and LEAP-style spreads are not competing ideas.  
 They are **tools designed for different constraints**.
 
-- Equity excels when time is not a binding variable and capital is available
+- Equity excels when time is not a binding variable and risk is scaled through position sizing
 - Long-dated bull call spreads excel when capital efficiency and defined risk matter, and when time risk must be managed rather than ignored
 
 For this $TGT setup:
@@ -170,8 +172,8 @@ For this $TGT setup:
 ### Summary
 
 In this post, I compared two ways of expressing the *same swing trade idea*:
-- A traditional equity position
-- A long-dated bull call spread
+- A traditional equity position, sized to ~$1,000 of stop-based risk
+- A long-dated bull call spread with fully defined risk
 
 Equity trades are governed by price and the stop-loss.  
 Options trades introduce time as an additional dimension of risk.
