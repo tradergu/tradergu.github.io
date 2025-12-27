@@ -10,9 +10,9 @@ image:
 
 ### Introduction
 There are many ways to express a swing trade in the market.  
-The most common — and often the first — is simply buying shares and managing risk with a stop-loss.
+The most common, and often the first, is simply buying shares and managing risk with a stop-loss.
 
-As traders evolve, questions around **capital efficiency**, **risk definition**, and **portfolio construction** naturally arise. This is often where options enter the conversation — sometimes with curiosity, sometimes with hesitation.
+As traders evolve, questions around **capital efficiency**, **risk definition**, and **portfolio construction** naturally arise. This is often where options enter the conversation, sometimes with curiosity and sometimes with hesitation.
 
 In this post, I’ll walk through **one specific swing trade on $TGT** and compare two ways of expressing the *same trade idea*:
 - A traditional **equity swing trade**
@@ -25,7 +25,7 @@ The goal is not to promote one approach over the other, but to understand **what
 ### The Trade Idea (Same Thesis, Same Levels)
 
 ![$TGT equity swing trade](/assets/img/2025/december/tgt-equity.png)
-*$TGT – Monthly order block, entry, stop-loss and target*
+*$TGT, monthly order block, entry, stop-loss and target*
 
 This is a higher-timeframe mean reversion setup:
 - Monthly bullish order block acting as demand
@@ -37,10 +37,9 @@ This is a higher-timeframe mean reversion setup:
 - Entry: ~99.55  
 - Stop: ~83.44  
 - Target: ~125  
-- Time horizon: 6–12 months  
 
 This is not a momentum trade.  
-It is a **structure-based swing** designed to give price time to work.
+It is a **structure-based swing** designed to give price room to work, with risk defined by the stop-loss rather than by time.
 
 ---
 
@@ -62,6 +61,7 @@ The most straightforward way to express this idea is by buying shares.
 - Risk-to-reward: ~1.6R
 
 **Why equity works well**
+- No time constraint
 - No time decay
 - Very forgiving if price moves slowly
 - Simple to manage and easy to understand
@@ -82,6 +82,9 @@ Instead of buying shares, we can express the same idea using options:
 - Sell a call at the predefined target
 - Use a long-dated expiry (LEAP-style)
 
+Unlike equity, options introduce **time as an explicit variable**.  
+Using a long-dated structure is a deliberate choice to reduce time pressure while maintaining defined risk.
+
 This approach fits naturally with the trade plan, as the exit level is already defined in advance.
 
 ---
@@ -89,7 +92,7 @@ This approach fits naturally with the trade plan, as the exit level is already d
 ### 12-Month Bull Call Spread
 
 ![$TGT bull call spread 12 months](/assets/img/2025/december/tgt-options-12m.png)
-*$TGT – 12-month bull call spread*
+*$TGT, 12-month bull call spread*
 
 **Structure**
 - Buy 95 Call  
@@ -106,27 +109,30 @@ This approach fits naturally with the trade plan, as the exit level is already d
 **What this structure does**
 - Replaces ~$8,800 of equity exposure with ~$1,200 of defined risk
 - Preserves the same directional thesis
+- Significantly reduces time pressure compared to shorter-dated options
 - Eliminates tail risk beyond the premium paid
 
 **What it does not do**
 - It does not materially improve R:R
 - It does not add explosive upside
 
-The **primary benefit here is capital efficiency**, not higher expectancy.
+The **primary benefit here is capital efficiency and risk definition**, not higher expectancy.
 
 ---
 
-### 6-Month Bull Call Spread
+### A Note on Duration (Side Note)
 
 ![$TGT bull call spread 6 months](/assets/img/2025/december/tgt-options-6m.png)
-*$TGT – 6-month bull call spread*
+*$TGT, 6-month bull call spread*
+
+> **This is not part of the primary comparison**, but highlights the trade-offs introduced by shorter duration.
 
 Using the same strikes with a shorter expiry:
 - Lower capital required
 - Higher potential R:R
-- Less forgiveness if price takes longer to develop
+- Meaningfully higher time risk
 
-This version improves returns **at the cost of time flexibility**.
+Although the risk remains defined, approximately ~$1,500, the uncertainty shifts toward **timing and pace**, making time a material stress factor.
 
 ---
 
@@ -136,12 +142,13 @@ This version improves returns **at the cost of time flexibility**.
 |------|------|----------------------|
 | Capital used | High | Low |
 | Risk | Stop-based | Fully defined |
+| Time constraint | None | Explicit |
 | Time decay | None | Minimal |
 | R:R | Higher | Slightly lower |
-| Time forgiveness | High | High |
+| Time forgiveness | Very high | High |
 | Capital efficiency | Low | Very high |
 
-> Long-dated bull call spreads are not about maximizing returns — they are about optimizing capital usage.
+> Long-dated bull call spreads are not about maximizing returns. They are about optimizing capital usage while managing time risk.
 
 ---
 
@@ -150,13 +157,13 @@ This version improves returns **at the cost of time flexibility**.
 Equity and LEAP-style spreads are not competing ideas.  
 They are **tools designed for different constraints**.
 
-- Equity excels when capital is abundant and simplicity is preferred
-- Long-dated bull call spreads excel when capital efficiency and defined risk matter
+- Equity excels when time is not a binding variable and capital is available
+- Long-dated bull call spreads excel when capital efficiency and defined risk matter, and when time risk must be managed rather than ignored
 
 For this $TGT setup:
 - The thesis does not change
 - The levels do not change
-- Only the **balance-sheet behavior** changes
+- Only the **risk container and time exposure** change
 
 ---
 
@@ -166,7 +173,10 @@ In this post, I compared two ways of expressing the *same swing trade idea*:
 - A traditional equity position
 - A long-dated bull call spread
 
-Using options — particularly long-dated spreads — is not about leverage or aggression. It’s about **capital efficiency, risk definition, and portfolio flexibility**.
+Equity trades are governed by price and the stop-loss.  
+Options trades introduce time as an additional dimension of risk.
+
+Using long-dated spreads is not about leverage or aggression. It is a way to **mitigate time risk**, while gaining **capital efficiency, defined risk, and portfolio flexibility**.
 
 In a future post, I’ll break down:
 - When *not* to use options
@@ -175,6 +185,6 @@ In a future post, I’ll break down:
 
 ---
 Hope you found this breakdown useful.  
-If you trade both equity and options — or are considering the transition — I’d love to hear how you approach these decisions. 👇
+If you trade both equity and options, or are considering the transition, I’d love to hear how you approach these decisions. 👇
 
 {% include comments.html %}
