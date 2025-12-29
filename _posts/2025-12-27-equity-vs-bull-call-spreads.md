@@ -16,34 +16,35 @@ As traders evolve, questions around **capital efficiency**, **risk definition**,
 
 In this post, I’ll walk through **one specific swing trade on $TGT** and compare two ways of expressing the *same trade idea*:
 - A traditional **equity swing trade**
-- A **long-dated bull call spread**
+- A **long-dated Bull Call Spread**
 
 The goal is not to promote one approach over the other, but to understand **what actually changes** when you switch instruments while keeping the thesis intact.
 
 ---
 
-### The Trade Idea (Same Thesis, Same Levels)
+### The Trade Idea
 
 ![$TGT equity swing trade](/assets/img/2025/december/tgt-equity.png)
 *$TGT, monthly order block, entry, stop-loss and target*
 
-This is a higher-timeframe mean reversion setup:
-- Monthly bullish order block acting as demand
-- Liquidity sweep below prior lows
-- Acceptance back above the area of interest
-- Clear upside target into the next monthly supply zone
+This is a higher-timeframe bullish reversal pattern idea
+- Weekly bullish market structure reversal
+- Monthly bullish market structure reversal building
+- Liquidity sweep below prior months lows
+- Liquidity sweep of the Covid low
+- Clear upside target into an untested bearish Order Block
 
 **Key levels**
-- Entry: ~99.55  
-- Stop: ~83.44  
-- Target: ~125  
+- Entry: ~$99.55  
+- Stop: ~$83.44  
+- Target: ~$125  
 
-This is not a momentum trade.  
-It is a **structure-based swing** designed to give price room to work, with risk defined by the stop-loss rather than by time.
+This is not a day or intraday trade.  
+It is a **high-conviction swing** designed to give price room to work, with risk defined by the stop-loss rather than by time.
 
 ---
 
-### Option 1 – The Equity Swing Trade
+### Option 1 - The Equity Swing Trade
 
 The most straightforward way to express this idea is by buying shares.
 
@@ -58,7 +59,7 @@ For comparison purposes, the position size is adjusted so that the **dollar risk
 - Approximate risk: ~$1,000 (position sized for comparison)
 
 **Reward**
-- If price reaches 125
+- If price reaches ~$125
 - Approximate profit: ~$1,580
 - Risk-to-reward: ~1.6R
 
@@ -67,17 +68,17 @@ For comparison purposes, the position size is adjusted so that the **dollar risk
 - No time decay
 - Very forgiving if price moves slowly
 - Simple to manage and easy to understand
+- Easy to scale risk to an appropriate level
 
 **Trade-off**
 - Large capital commitment relative to defined risk
 - Open-ended gap risk
-- Harder to scale across multiple positions
 
 Equity trades are **robust and intuitive**, but capital-heavy.
 
 ---
 
-### Option 2 – The Long-Dated Bull Call Spread
+### Option 2 - The Long-Dated Bull Call Spread
 
 Instead of buying shares, we can express the same idea using options:
 - Buy a call near current price
@@ -91,10 +92,10 @@ This approach fits naturally with the trade plan, as the exit level is already d
 
 ---
 
-### 12-Month Bull Call Spread
+#### 12-Month Bull Call Spread
 
-![$TGT bull call spread 12 months](/assets/img/2025/december/tgt-options-12m.png)
-*$TGT, 12-month bull call spread*
+![$TGT Bull Call Spread 12 months](/assets/img/2025/december/tgt-options-12m.png)
+*$TGT, 12-month Bull Call Spread*
 
 **Structure**
 - Buy 95 Call  
@@ -112,7 +113,6 @@ This approach fits naturally with the trade plan, as the exit level is already d
 - Replaces ~$6,200 of equity exposure with ~$1,200 of defined risk
 - Preserves the same directional thesis
 - Significantly reduces time pressure compared to shorter-dated options
-- Eliminates tail risk beyond the premium paid
 
 **What it does not do**
 - It does not materially improve R:R
@@ -122,19 +122,19 @@ The **primary benefit here is capital efficiency and risk definition**, not high
 
 ---
 
-### A Note on Duration (Side Note)
+#### A Note on Duration (Side Note)
 
-![$TGT bull call spread 6 months](/assets/img/2025/december/tgt-options-6m.png)
-*$TGT, 6-month bull call spread*
+![$TGT Bull Call Spread 6 months](/assets/img/2025/december/tgt-options-6m.png)
+*$TGT, 6-month Bull Call Spread*
 
 > **This is not part of the primary comparison**, but highlights the trade-offs introduced by shorter duration.
+{: .prompt-info }
 
 Using the same strikes with a shorter expiry:
-- Lower capital required
 - Higher potential R:R
 - Meaningfully higher time risk
 
-Although the risk remains defined, approximately ~$1,500, the uncertainty shifts toward **timing and pace**, making time a material stress factor.
+Although the risk remains defined, approximately ~$1,500 considering two contracts, the uncertainty shifts toward **timing and pace**, making time a material stress factor.
 
 ---
 
@@ -150,7 +150,9 @@ Although the risk remains defined, approximately ~$1,500, the uncertainty shifts
 | Time forgiveness | Very high | High |
 | Capital efficiency | Low | Very high |
 
-> Long-dated bull call spreads are not about maximizing returns. They are about optimizing capital usage while managing time risk.
+> Long-dated Bull Call Spread's are not about maximizing returns. They are about optimizing capital usage while managing time risk.
+{: .prompt-info }
+
 
 ---
 
@@ -160,7 +162,10 @@ Equity and LEAP-style spreads are not competing ideas.
 They are **tools designed for different constraints**.
 
 - Equity excels when time is not a binding variable and risk is scaled through position sizing
-- Long-dated bull call spreads excel when capital efficiency and defined risk matter, and when time risk must be managed rather than ignored
+- Long-dated Bull Call Spread's excel when capital efficiency and defined risk matter, and when time risk must be managed rather than ignored
+
+> Equity trades also carry the risk of significantly larger losses in the event of an opening gap well below the defined stop-loss level.
+{: .prompt-warning }
 
 For this $TGT setup:
 - The thesis does not change
@@ -173,17 +178,12 @@ For this $TGT setup:
 
 In this post, I compared two ways of expressing the *same swing trade idea*:
 - A traditional equity position, sized to ~$1,000 of stop-based risk
-- A long-dated bull call spread with fully defined risk
+- A long-dated bBull Call Spread with fully defined risk
 
 Equity trades are governed by price and the stop-loss.  
 Options trades introduce time as an additional dimension of risk.
 
-Using long-dated spreads is not about leverage or aggression. It is a way to **mitigate time risk**, while gaining **capital efficiency, defined risk, and portfolio flexibility**.
-
-In a future post, I’ll break down:
-- When *not* to use options
-- How I decide between equity and options on a trade-by-trade basis
-- How I manage exits on option spreads before price reaches the target
+Using long-dated Bull Call Spread's is not about leverage or aggression. It is a way to **mitigate time risk**, while gaining **capital efficiency, defined risk, and portfolio flexibility**.
 
 ---
 Hope you found this breakdown useful.  
