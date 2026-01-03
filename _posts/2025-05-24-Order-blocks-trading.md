@@ -3,10 +3,10 @@ title: "🧰 Order Blocks for High-conviction Trading"
 date: 2025-05-24 11:05:00 0100
 categories: [Trading Tools]
 tags: [order-blocks, trading-tools]
+pin: true
 image:
   path: /assets/img/2025/may/TG-Strategy-Banner-OB.png
   lqtip:
-pin: true
 ---
 
 ### Introduction
