@@ -6,6 +6,7 @@ tags: [order-blocks, trading-tools]
 image:
   path: /assets/img/2025/may/TG-Strategy-Banner-OB.png
   lqtip:
+pin: true
 ---
 
 ### Introduction
