@@ -1,4 +1,7 @@
 # The Site Configuration
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
 
 # Import the theme
 theme: jekyll-theme-chirpy
