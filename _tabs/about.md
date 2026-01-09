@@ -2,7 +2,6 @@
 title: About
 icon: fas fa-info-circle
 order: 8
-permalink: /
 ---
 
 ![Profile Trader Gu](/assets/img/tg-profile-ghibli-transparent.png){: width="1024" height="1536" .w-25 .right}
