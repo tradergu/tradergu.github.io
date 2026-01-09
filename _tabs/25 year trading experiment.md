@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-arrow-trend-up
-order: 2
+order: 3
 ---
 
 ![Profile Trader Gu](/assets/img/banner-25year.png)
