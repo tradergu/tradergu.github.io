@@ -1,7 +1,8 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
-order: 6
+order: 1
+permalink: /
 ---
 
 ![Profile Trader Gu](/assets/img/tg-profile-ghibli-transparent.png){: width="1024" height="1536" .w-25 .right}
