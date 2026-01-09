@@ -1,7 +1,7 @@
 ---
 title: High Conviction Swing Trading
 icon: fas fa-info-circle
-order: 8
+order: 1
 permalink: /
 ---
 
