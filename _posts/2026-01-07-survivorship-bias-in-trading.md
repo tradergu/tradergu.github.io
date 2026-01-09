@@ -1,6 +1,6 @@
 ---
 title: "✈️ Survivorship Bias in Trading: Lessons from World War II"
-date: 2026-01-09 08:00:00 0100
+date: 2026-01-07 08:00:00 0100
 categories: [Insights]
 tags: [insights,trading-psychology,]
 image:
