@@ -1,0 +1,191 @@
+---
+title: "2025 Trading Performance - Year in Review"
+date: 2026-01-17 06:00:00 +0100
+categories: [Portfolio Updates]
+tags: [portfolio-update, year-review]
+image:
+  path: /assets/img/2026/january/2025-year-review.png
+---
+
+AS 2026 just getting started, I want to take a step back and review the year across my trading portfolios - not just in terms of returns, but in terms of **process, discipline, and decision quality**.
+
+This post is intended as a **transparent year-end record**.  
+No hindsight optimization.  
+No cherry-picked performance.  
+Just what happened, why it matters, and what I’m carrying forward.
+
+---
+
+## 🧭 Before the Numbers
+
+My approach hasn’t changed:
+
+- High-timeframe focus (weekly & monthly)
+- Infrequent, high-conviction trades
+- Defined risk & clear invalidation
+- Long periods of doing nothing
+- Trading designed to fit alongside a full-time career
+
+2025 was a year where I started increasing risk on my portfolio and also going public with my trading journey. Lots has happened. 
+
+---
+
+## 📈 Portfolio Overview – 2025
+I currently execute my High Conviction Swing Trading strategy in 4 accounts
+- Main Trading Account
+- 25 Year Trading Experiment
+- Crypto Gu
+- Options Gu
+
+> All my accounts are traded in SEK and evaluated on actual P&L
+{: .prompt-tip }
+
+### 🧠 Main Trading Account (Equities – Swing Trading)
+This portfolio remains my primary focus for long-term capital growth.
+
+The year ended with +13% year to date, and outperforming the global index with 10% 💪.
+
+Compared to previous years, the performance is lower from a percentage basis but significantly higher in P&L as the portfolio is larger both due to deposits throughout the year. 
+
+![Main Trading Account](/assets/img/2026/2025/january/main-trading-account.png)
+*Portfolio performance - Main Trading Account*
+
+Key takeaway:
+The more I keep trading, the more confident I get and am able to deposit more capital into my trading account. Percentage growth is great but what utlitmaly matters is how much P&L you do relative to keeping everytihg in a global index fund.
+
+#### Trade Activity and P&L
+I opened 18 trades in 2025, significantly more than previous years, and I ended up realizing 14 of those trades as well as 2 trades from the previous years.
+
+**Current statistics, inception to date**
+- Winning trades: 13 (2 from previous years)
+- Losing trades: 4 
+- Break-even taades: 4
+- Open trades at year end: 6 
+
+**Win rate:**
+- ~76% excluding break-evens  
+- ~62% including break-evens  
+
+- 🟢 13 Winners  
+- 🔴 4 Losses  
+- 🟡 4 Break-even (+/- 3%)
+
+![Main Trading Account](/assets/img/2026/2025/january/main-p&l.png)
+*Trade P&L - Main Trading Account*
+
+> Average trade duration is 154 days.
+{: .prompt-info }
+
+### ✅ 2025 Winning & Loosers
+The biggest winners of 2025 are my $CRSP, $AMD, $ASML, $OSCR, and $BRKR trades. Check out my [published trade reviews](https://www.tradergu.com/categories/trade-review/) for details.
+
+---
+
+### 🔄 Open Trades (Carried Into 2026)
+The following positions remain open. Their resutls belong to 2026.
+
+- $BABA (in profit)
+- $JD (negative)  
+- $PYPL(negative  
+- $NOVO (negative)  
+- $NOVO(positive)
+- $TGT(positive)
+
+---
+
+### ₿ Crypto Gu — Equity Trades with Crypto Exposure
+
+Crypto Gu focuses on **crypto-related equities**, traded with the same high-timeframe, High Conviction Swing Trade but with higher risk on invested capital.
+
+- **2025 P&L:** 🟢 +107%
+
+This was the strongest-performing portfolio of the year, benefiting from volatility — but still executed selectively. No leverage.
+
+![Crypto Gu](/assets/img/2026/2025/january/crypto-gu-p&l.png)
+*Trade P&L - Crypto Gu*
+
+> High risk trading account. High volatility assets.
+{: .prompt-info }
+
+---
+
+### 🧪 The 25 Year Trading Experiment
+
+2025 marked the **foundation year** of the 25 Year Trading Experiment.
+
+I won’t go deep here.
+
+📅 **January 22** marks **exactly one year since inception**, and I’ll publish a full deep dive covering:
+
+- Active vs MSCI ACWI performance
+- Capital flows & psychology
+- What worked / what didn’t
+- Early structural lessons
+
+Stay tuned.
+
+![25 Year Trading Experiment](/assets/img/2026/2025/january/25year-p&l.png)
+*Trade P&L - 25 Year Trading Experiment*
+
+---
+
+## 🔭 Did I outperform the Index 2025 - summary
+- [x] Main Trading Account: 10% 💪
+- [x] 25 Year Trading Experiment: 7% 💪
+- [x] Crypto Gu: 8% 💪💪💪
+- [x] Options Gu: 8% 💪
+
+>All my accounts are compare to the [Storebrand Global All Countries A SEK](https://storebrandfonder.fondlista.se/details/SE0000671919/2) which tracking the MSCI ACWI global index in SEK. 
+{: .prompt-info }
+
+![25 Year Trading Experiment](/assets/img/2026/2025/january/2025-overall.png)
+*Trade P&L and Comparison to the Global Index - Overall*
+
+## 🧠 What 2025 Reinforced
+
+A few things became even clearer this year:
+
+- Overtrading is still the biggest enemy  
+- Public transparency improves discipline — but adds pressure  
+- Adding capital mid-year distorts percentage metrics  
+  - Except for the 25 Year Trading Experiment which tracks the difference transparently
+- Patience remains my strongest edge  
+- The best trades are difficult to carry to target
+
+Or simply:
+
+> I’m not here to be right. I’m here to be profitable.
+{: .prompt-tip }
+
+---
+
+## 🔭 Looking Ahead to 2026
+
+The plan remains intentionally boring:
+
+- Fewer trades  
+- Higher conviction  
+- Continued transparency  
+- Improved risk scalability  
+- Increase risk - keep depositing to my money making machinnes
+
+I’ll continue documenting trades, insights, and mistakes publicly — not as financial advice, but as a public journal - and honestly it's makes the lonely life of a trader more fulfulling.  
+
+---
+
+## Final Thoughts
+
+2025 wasn’t perfect in P&L perspective but it was the year I started 
+
+2025 wasn't perfect in PLL perspective, but looking at the growth numbers from a percentage, it's clear that I'm on a good track to keep consistently profit and outperform the overall global index.
+
+One of my main accomplishments for 2025 is to venture out on my journey for the 25-year trading experiment, which is the best way of comparing your performance of global market in a portfolio where you do monthly or bi-monthly deposits.
+
+One of my best outcomes after 2025 is also the fact that I started my options trading account, which I've been thinking about for years but now finally went about and deposited the money into my interactive brokerage account. It's been a very exciting journey, short but volatile, and I'm really looking forward to see how I can take my swing trading into the next level, both by increasing risk, focusing on the higher conviction setups, and scaling in my P&L using options trading.
+
+If you value patience, and following a transparent trading journey  — you’re exactly who this work is for.
+
+Thanks for following along this year.
+More to come in 2026.
+
+{% include comments.html %}
