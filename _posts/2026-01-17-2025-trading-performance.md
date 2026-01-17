@@ -101,6 +101,9 @@ Crypto Gu focuses on **crypto-related equities**, traded with the same high-time
 
 - **2025 P&L:** 🟢 +107%
 
+![Crypto Gu](/assets/img/2026/january/2025-crypto.png)
+*Performance - Crypto Gu*
+
 This was the strongest-performing portfolio of the year, benefiting from volatility, but still executed selectively. No leverage.
 
 ![Crypto Gu](/assets/img/2026/january/crypto-gu-p&l.png)
@@ -108,6 +111,18 @@ This was the strongest-performing portfolio of the year, benefiting from volatil
 
 > High risk potential for high reward.
 {: .prompt-tip }
+
+---
+
+
+### Options Gu - Most recent portfolio
+
+Options Gu is my most recent trading account where I'm utilizing my Swing Trading strategy in the options market. Recently started in December, and the P&L is unrealized. Looking to add more capital to this portfolio going forward. 
+
+- **2025 P&L:** 🟢 +8%
+
+![Crypto Gu](/assets/img/2026/january/2025-options.png)
+*Performance - Options Gu*
 
 ---
 
