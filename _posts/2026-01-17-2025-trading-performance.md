@@ -14,6 +14,8 @@ No hindsight optimization.
 No cherry-picked performance.  
 Just what happened, why it matters, and what I’m carrying forward.
 
+>All trades are always shared live on [X.com/tradergu](https://x.com/trader_gu),
+{: .prompt-info }
 ---
 
 ## 🧭 Before the Numbers
@@ -74,7 +76,7 @@ I opened 18 trades in 2025, significantly more than previous years, and I ended 
 *Trade P&L - Main Trading Account*
 
 > Average trade duration is 154 days.
-{: .prompt-info }
+{: .prompt-tip }
 
 ### ✅ 2025 Winning & Loosers
 The biggest winners of 2025 are my $CRSP, $AMD, $ASML, $OSCR, and $BRKR trades. Check out my [published trade reviews](https://www.tradergu.com/categories/trade-review/) for details.
@@ -84,43 +86,46 @@ The biggest winners of 2025 are my $CRSP, $AMD, $ASML, $OSCR, and $BRKR trades. 
 ### 🔄 Open Trades (Carried Into 2026)
 The following positions remain open. Their resutls belong to 2026.
 
-- $BABA (in profit)
-- $JD (negative)  
-- $PYPL(negative  
-- $NOVO (negative)  
-- $NOVO(positive)
-- $TGT(positive)
+- $BABA (🟢 in profit)
+- $JD (🔴 in drawdown)  
+- $PYPL (🔴 in drawdown)  
+- $NOVO (🔴 in drawdown)  
+- $NOVO (🟢 in profit)
+- $TGT (🟢 in profit)
 
 ---
 
 ### ₿ Crypto Gu — Equity Trades with Crypto Exposure
 
-Crypto Gu focuses on **crypto-related equities**, traded with the same high-timeframe, High Conviction Swing Trade but with higher risk on invested capital.
+Crypto Gu focuses on **crypto-related equities**, traded with the same high-timeframe, High Conviction Swing Trading strategy but with higher risk on invested capital.
 
 - **2025 P&L:** 🟢 +107%
 
-This was the strongest-performing portfolio of the year, benefiting from volatility — but still executed selectively. No leverage.
+This was the strongest-performing portfolio of the year, benefiting from volatility, but still executed selectively. No leverage.
 
 ![Crypto Gu](/assets/img/2026/january/crypto-gu-p&l.png)
 *Trade P&L - Crypto Gu*
 
-> High risk trading account. High volatility assets.
-{: .prompt-info }
+> High risk potential for High reward.
+{: .prompt-tip }
 
 ---
 
-### 🧪 The 25 Year Trading Experiment
+### The 25 Year Trading Experiment
 
-2025 marked the **foundation year** of the 25 Year Trading Experiment.
+2025 marked the **foundation year** of the [25 Year Trading Experiment](https://www.tradergu.com/25-year-trading-experiment/).
 
 I won’t go deep here.
 
+.
+
 📅 **January 22** marks **exactly one year since inception**, and I’ll publish a full deep dive covering:
 
-- Active vs MSCI ACWI performance
+- Active Trading vs Passive investing
 - Capital flows & psychology
 - What worked / what didn’t
 - Early structural lessons
+- 100% transparency
 
 Stay tuned.
 
@@ -129,24 +134,24 @@ Stay tuned.
 
 ---
 
-## 🔭 Did I outperform the Index 2025 - summary
+## Did I outperform the Index 2025 - summary
 - [x] Main Trading Account: 10% 💪
 - [x] 25 Year Trading Experiment: 7% 💪
 - [x] Crypto Gu: 8% 💪💪💪
 - [x] Options Gu: 8% 💪
 
 >All my accounts are compare to the [Storebrand Global All Countries A SEK](https://storebrandfonder.fondlista.se/details/SE0000671919/2) which tracking the MSCI ACWI global index in SEK. 
-{: .prompt-info }
+{: .prompt-tip }
 
 ![25 Year Trading Experiment](/assets/img/2026/january/2025-overall.png)
 *Trade P&L and Comparison to the Global Index - Overall*
 
-## 🧠 What 2025 Reinforced
+## What 2025 Reinforced
 
 A few things became even clearer this year:
 
 - Overtrading is still the biggest enemy  
-- Public transparency improves discipline — but adds pressure  
+- Public transparency improves discipline - but adds pressure  
 - Adding capital mid-year distorts percentage metrics  
   - Except for the 25 Year Trading Experiment which tracks the difference transparently
 - Patience remains my strongest edge  
@@ -159,9 +164,9 @@ Or simply:
 
 ---
 
-## 🔭 Looking Ahead to 2026
+## Looking Ahead to 2026
 
-The plan remains intentionally boring:
+The trading plan remains intentionally boring:
 
 - Fewer trades  
 - Higher conviction  
@@ -169,7 +174,7 @@ The plan remains intentionally boring:
 - Improved risk scalability  
 - Increase risk - keep depositing to my money making machinnes
 
-I’ll continue documenting trades, insights, and mistakes publicly — not as financial advice, but as a public journal - and honestly it's makes the lonely life of a trader more fulfulling.  
+I’ll continue documenting trades, insights, and mistakes publicly - not as financial advice, but as a public journal - and honestly it's makes the lonely life of a trader more fulfulling.  
 
 ---
 
@@ -177,13 +182,13 @@ I’ll continue documenting trades, insights, and mistakes publicly — not as f
 
 2025 wasn’t perfect in P&L perspective but it was the year I started 
 
-2025 wasn't perfect in PLL perspective, but looking at the growth numbers from a percentage, it's clear that I'm on a good track to keep consistently profit and outperform the overall global index.
+2025 wasn't perfect in P&L perspective, but looking at the growth numbers from a percentage, it's clear that I'm on a good track to keep consistently profit and outperform the overall global index.
 
 One of my main accomplishments for 2025 is to venture out on my journey for the 25-year trading experiment, which is the best way of comparing your performance of global market in a portfolio where you do monthly or bi-monthly deposits.
 
 One of my best outcomes after 2025 is also the fact that I started my options trading account, which I've been thinking about for years but now finally went about and deposited the money into my interactive brokerage account. It's been a very exciting journey, short but volatile, and I'm really looking forward to see how I can take my swing trading into the next level, both by increasing risk, focusing on the higher conviction setups, and scaling in my P&L using options trading.
 
-If you value patience, and following a transparent trading journey  — you’re exactly who this work is for.
+If you value patience, and following a transparent trading journey  - you’re exactly who this work is for.
 
 Thanks for following along this year.
 More to come in 2026.
