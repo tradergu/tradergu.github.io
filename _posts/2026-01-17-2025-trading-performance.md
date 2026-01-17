@@ -78,12 +78,12 @@ I opened 18 trades in 2025, significantly more than previous years, and I ended 
 > Average trade duration is 154 days.
 {: .prompt-tip }
 
-### ✅ 2025 Winning & Losers
+### ✅ 2025 Winners & Losers
 The biggest winners of 2025 are my $CRSP, $AMD, $ASML, $OSCR, and $BRKR trades. Check out my [published trade reviews](https://www.tradergu.com/categories/trade-review/) for details.
 
 ---
 
-### 🔄 Open Trades (Carried Into 2026)
+### Open Trades (Carried Into 2026)
 The following positions remain open. Their results belong to 2026.
 
 - $BABA (🟢 in profit)
@@ -95,7 +95,7 @@ The following positions remain open. Their results belong to 2026.
 
 ---
 
-### ₿ Crypto Gu — Equity Trades with Crypto Exposure
+### ₿ Crypto Gu - Equity Trades with Crypto Exposure
 
 Crypto Gu focuses on **crypto-related equities**, traded with the same high-timeframe, High Conviction Swing Trading strategy but with higher risk on invested capital.
 
@@ -113,9 +113,9 @@ This was the strongest-performing portfolio of the year, benefiting from volatil
 
 ### The 25 Year Trading Experiment
 
-2025 marked the **foundation year** of the [25 Year Trading Experiment](https://www.tradergu.com/25-year-trading-experiment/).
+2025 marked the **foundation year** of the [25 Year Trading Experiment](https://www.tradergu.com/25-year-trading-experiment/)
 
-I won’t go deep here.
+I won’t go deep here.  
 
 📅 **January 22** marks **exactly one year since inception**, and I’ll publish a full deep dive covering:
 
@@ -135,7 +135,7 @@ Stay tuned.
 ## Did I outperform the index in 2025 - summary
 - [x] Main Trading Account: 10% 💪
 - [x] 25 Year Trading Experiment: 7% 💪
-- [x] Crypto Gu: 8% 💪💪💪
+- [x] Crypto Gu: 104% 💪💪💪
 - [x] Options Gu: 8% 💪
 
 > All my accounts are compared to the [Storebrand Global All Countries A SEK](https://storebrandfonder.fondlista.se/details/SE0000671919/2) which tracks the MSCI ACWI global index in SEK. 
@@ -187,6 +187,7 @@ One of my best outcomes after 2025 is also the fact that I started my options tr
 If you value patience and following a transparent trading journey, you’re exactly who this work is for.
 
 Thanks for following along this year.  
+
 More to come in 2026.
 
 {% include comments.html %}
