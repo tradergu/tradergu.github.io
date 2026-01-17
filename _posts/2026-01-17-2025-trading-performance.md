@@ -47,7 +47,7 @@ The year ended with +13% year to date, and outperforming the global index with 1
 
 Compared to previous years, the performance is lower from a percentage basis but significantly higher in P&L as the portfolio is larger both due to deposits throughout the year. 
 
-![Main Trading Account](/assets/img/2026/2025/january/main-trading-account.png)
+![Main Trading Account](/assets/img/2026/january/main-trading-account.png)
 *Portfolio performance - Main Trading Account*
 
 Key takeaway:
@@ -70,7 +70,7 @@ I opened 18 trades in 2025, significantly more than previous years, and I ended 
 - 🔴 4 Losses  
 - 🟡 4 Break-even (+/- 3%)
 
-![Main Trading Account](/assets/img/2026/2025/january/main-p&l.png)
+![Main Trading Account](/assets/img/2026/january/main-p&l.png)
 *Trade P&L - Main Trading Account*
 
 > Average trade duration is 154 days.
@@ -101,7 +101,7 @@ Crypto Gu focuses on **crypto-related equities**, traded with the same high-time
 
 This was the strongest-performing portfolio of the year, benefiting from volatility — but still executed selectively. No leverage.
 
-![Crypto Gu](/assets/img/2026/2025/january/crypto-gu-p&l.png)
+![Crypto Gu](/assets/img/2026/january/crypto-gu-p&l.png)
 *Trade P&L - Crypto Gu*
 
 > High risk trading account. High volatility assets.
@@ -124,7 +124,7 @@ I won’t go deep here.
 
 Stay tuned.
 
-![25 Year Trading Experiment](/assets/img/2026/2025/january/25year-p&l.png)
+![25 Year Trading Experiment](/assets/img/2026/january/25year-p&l.png)
 *Trade P&L - 25 Year Trading Experiment*
 
 ---
@@ -138,7 +138,7 @@ Stay tuned.
 >All my accounts are compare to the [Storebrand Global All Countries A SEK](https://storebrandfonder.fondlista.se/details/SE0000671919/2) which tracking the MSCI ACWI global index in SEK. 
 {: .prompt-info }
 
-![25 Year Trading Experiment](/assets/img/2026/2025/january/2025-overall.png)
+![25 Year Trading Experiment](/assets/img/2026/january/2025-overall.png)
 *Trade P&L and Comparison to the Global Index - Overall*
 
 ## 🧠 What 2025 Reinforced
