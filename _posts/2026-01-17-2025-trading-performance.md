@@ -205,4 +205,7 @@ Thanks for following along this year.
 
 More to come in 2026.
 
+---
+How was your trading year? Let me know in the comment section! 👇
+
 {% include comments.html %}
