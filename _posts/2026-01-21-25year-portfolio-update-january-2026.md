@@ -5,7 +5,7 @@ categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
   path: /assets/img/2025/january/banner-25year-december-2025.png
-published: false
+published: true
 ---
 
 We’ve finally made it. After 365 days, I’ve officially completed year one of my 25 Year Trading Experiment. The time went by faster than I expected, and I’m grateful for the consistency and discipline it took to see this first phase through. Now it’s time to break down the numbers - how things are shaping up so far, and what the trajectory could look like over the coming years if I continue to outperform the market.
