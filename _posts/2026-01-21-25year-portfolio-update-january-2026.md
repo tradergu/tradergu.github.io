@@ -1,10 +1,10 @@
 ---
 title: "💼 Portfolio Update: 25 Year Trading Experiment | January 2026"
-date: 2025-12-21 23:30:00 0100
+date: 2026-01-21 23:30:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
-  path: /assets/img/2025/january/banner-25year-december-2025.png
+  path: /assets/img/2026/january/banner-25year-january-2026.png
 published: true
 ---
 
@@ -20,7 +20,7 @@ The total portfolio value is now worth $14,800. Both portfolios are in profit, a
 * Actively Traded Portfolio: 🟢 +18.8%  
 * Passively Invested Portfolio: 🟢 +5.3%
 
-![25 year trading experiment - Performance, Inception to Date](/assets/img/2025/december/25year-performance-to-date.png)
+![25 year trading experiment - Performance, Inception to Date](/assets/img/2026/january/25year-performance-to-date.png)
 *Performance: Inception to Date*
 
 > The goal is to outperform the global index over a 25 year period through disciplined active Swing Trading.
@@ -34,7 +34,7 @@ The total portfolio value is now worth $14,800. Both portfolios are in profit, a
 * Actively Traded Portfolio: 🟢 +4.2%  
 * Passively Invested Portfolio: 🔴 +0.9%
 
-![25 year trading experiment - Performance, Year to Date](/assets/img/2025/december/25year-performance-yearly.png)
+![25 year trading experiment - Performance, Year to Date](/assets/img/2026/january/25year-performance-yearly.png)
 *Performance: Year to Date*
 
 ---
@@ -42,10 +42,10 @@ The total portfolio value is now worth $14,800. Both portfolios are in profit, a
 ## Performance: Month to Month Overview
 On a month-to-month basis, the both portfolio's has only experienced 4 negative months, 33% of the year.
 
-![25 year trading experiment - Month by Month](/assets/img/2025/december/25year-monthly-table.png)
+![25 year trading experiment - Month by Month](/assets/img/2026/january/25year-monthly-table.png)
 *Performance: Month by Month, Table*
 
-![25 year trading experiment - Month by Month](/assets/img/2025/december/25year-monthly-chart.png)
+![25 year trading experiment - Month by Month](/assets/img/2026/january/25year-monthly-chart.png)
 *Performance: Month by Month, Chart*
 
 ---
@@ -53,18 +53,18 @@ On a month-to-month basis, the both portfolio's has only experienced 4 negative 
 ## Open Positions
 The portfolio currently consists of five open trades: $PYPL, $NOVO, $NOVO $JD and $TGT.
 
-![Position allocation](/assets/img/2025/december/25year-portfolio.png)
+![Position allocation](/assets/img/2026/january/25year-portfolio.png)
 *Open Positions*
 
 The total invested capital at risk is currently ⚠️ 21%, with the highest per-trade risk being 8% on $PYPL.
 
-![Position allocation](/assets/img/2025/december/25year-risk.png)
+![Position allocation](/assets/img/2026/january/25year-risk.png)
 *Risk per Trade*
 
 ### Open Positions: Detailed Overview
 The following table contains the entry, stop loss, position size, and current market prices.
 
-![Trade](/assets/img/2025/december/25year-open-trades-details.png)
+![Trade](/assets/img/2026/january/25year-open-trades-details.png)
 *Open Trades: Details*
 
 ---
@@ -79,7 +79,7 @@ This translates to a 73% win rate when excluding break-even trades, or 62% inclu
 
 Realized losses have so far been modest, with a maximum realized loss of just 7.2%. These results will change once I start realizing profit and loss for the open invalidated positions such as a massive drawback in a $NVO trade.
 
-![25 year trading experiment - Realized P&L](/assets/img/2025/december/25year-realized-pnl.png)
+![25 year trading experiment - Realized P&L](/assets/img/2026/january/25year-realized-pnl.png)
 *Realized P&L*
 
 ---
