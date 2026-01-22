@@ -15,7 +15,7 @@ All trades are always shared live on [X.com/tradergu](https://x.com/trader_gu), 
 ---
 
 ## Performance: Inception to Date
-The total portfolio value is now worth $14,800. Both portfolios are in profit, and the Actively Traded Portfolio has outperformed the Passively Invested Portfolio by 13.3 percentage points from inception-to-date 💪.
+The total portfolio value is now worth $14,800. Both portfolios are in profit, and the Actively Traded Portfolio has outperformed the Passively Invested Portfolio by 13.3 percentage points, from inception-to-date 💪.
 
 * Actively Traded Portfolio: 🟢 +18.8%  
 * Passively Invested Portfolio: 🟢 +5.3%
@@ -40,7 +40,7 @@ The total portfolio value is now worth $14,800. Both portfolios are in profit, a
 ---
 
 ## Performance: Month to Month Overview
-On a month-to-month basis, the both portfolio's has only experienced 4 negative months, 33% of the year.
+On a month-to-month basis, both portfolio's have only experienced 4 negative months, 33% of the year.
 
 ![25 year trading experiment - Month by Month](/assets/img/2026/january/25year-monthly-table.png)
 *Performance: Month by Month, Table*
