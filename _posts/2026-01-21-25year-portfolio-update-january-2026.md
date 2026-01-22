@@ -4,7 +4,7 @@ date: 2025-12-21 23:30:00 0100
 categories: [25 Year Trading Experiment]
 tags: [25yeartradingexperiment, portfolio-update]
 image:
-  path: /assets/img/2025/december/banner-25year-december-2025.png
+  path: /assets/img/2025/january/banner-25year-december-2025.png
 published: false
 ---
 
@@ -15,10 +15,10 @@ All trades are always shared live on [X.com/tradergu](https://x.com/trader_gu), 
 ---
 
 ## Performance: Inception to Date
-The total portfolio value is now worth $15,000. Both portfolios are in profit, and the Actively Traded Portfolio has outperformed the Passively Invested Portfolio by 13.0 percentage points from inception-to-date 💪.
+The total portfolio value is now worth $14,800. Both portfolios are in profit, and the Actively Traded Portfolio has outperformed the Passively Invested Portfolio by 13.3 percentage points from inception-to-date 💪.
 
-* Actively Traded Portfolio: 🟢 +21.3%  
-* Passively Invested Portfolio: 🟢 +8.3%
+* Actively Traded Portfolio: 🟢 +18.8%  
+* Passively Invested Portfolio: 🟢 +5.3%
 
 ![25 year trading experiment - Performance, Inception to Date](/assets/img/2025/december/25year-performance-to-date.png)
 *Performance: Inception to Date*
@@ -29,12 +29,12 @@ The total portfolio value is now worth $15,000. Both portfolios are in profit, a
 ---
 
 ## Performance: Year to Date
-Both portfolios are in profit, with the actively traded approach is currently outperforming the passively invested strategy by 8.8 percentage points year-to-date.
+2026 has just began, and volaility has favord open positions and the actively traded portfolio is currently outperforming by 4.9 percentage points year-to-date.
 
-* Actively Traded Portfolio: 🟢 +6.3%  
-* Passively Invested Portfolio: 🟢 +1.9%
+* Actively Traded Portfolio: 🟢 +4.2%  
+* Passively Invested Portfolio: 🔴 +0.9%
 
-![25 year trading experiment - Performance, Year to Date](/assets/img/2025/december/25year-performance-to-date.png)
+![25 year trading experiment - Performance, Year to Date](/assets/img/2025/december/25year-performance-yearly.png)
 *Performance: Year to Date*
 
 ---
@@ -51,12 +51,12 @@ On a month-to-month basis, the both portfolio's has only experienced 4 negative 
 ---
 
 ## Open Positions
-The portfolio currently consists of five open trades: $PYPL, $NOVO, $NOVO $JD, $TGT and most recently $ADBE.
+The portfolio currently consists of five open trades: $PYPL, $NOVO, $NOVO $JD and $TGT.
 
 ![Position allocation](/assets/img/2025/december/25year-portfolio.png)
 *Open Positions*
 
-The total invested capital at risk is currently ⚠️ 15%, with the highest per-trade risk being 8% on $PYPL.
+The total invested capital at risk is currently ⚠️ 21%, with the highest per-trade risk being 8% on $PYPL.
 
 ![Position allocation](/assets/img/2025/december/25year-risk.png)
 *Risk per Trade*
